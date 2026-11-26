@@ -9,7 +9,7 @@
 
 **Asignatura:** Algoritmos y Estructuras de Datos I (AED1) — Grado en Ingeniería Informática (Curso 2026/2027)  
 **Centro:** Facultad de Informática, Universidad de Murcia  
-**Autores:** [Nombre y Apellidos Alumno 1] · [Nombre y Apellidos Alumno 2]  
+**Autores:** Juan José Cortés Arnaldos · Raúl Sánchez Ayala
 **Memoria PDF:** [docs/memoria_aed1_t4.pdf](docs/memoria_aed1_t4.pdf)
 
 ---
