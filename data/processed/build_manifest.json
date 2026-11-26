@@ -1,0 +1,178 @@
+{
+  "source_file": "data/raw/MapSpawns.json",
+  "source_sha256": "f326addfe144192e3d6874d48cac628c5a466134b08556d03d5c2b3da18bc4dc",
+  "game_version": "43.10",
+  "date": "2026-11-13",
+  "source_url": "https://lifecrisis.life/loot",
+  "meters_per_pixel": 1.468884,
+  "scale_calibration": "calibrated_median_5_pois",
+  "total_points_raw": 2145,
+  "counts_by_type_raw": {
+    "wanted_poster": 141,
+    "sprite_shrine": 8,
+    "chest": 925,
+    "rare_chest": 40,
+    "ammo_box": 879,
+    "buried_chest": 69,
+    "vault": 8,
+    "fishing_rod_barrel": 47,
+    "loot_cannon": 28
+  },
+  "total_valid_chests": 1034,
+  "graphs": [
+    {
+      "file": "macro_poi_sparse.graph",
+      "nodes": 16,
+      "edges": 29,
+      "directed": false,
+      "density": 0.2417,
+      "bridges_added": 0
+    },
+    {
+      "file": "macro_poi_complete.graph",
+      "nodes": 16,
+      "edges": 120,
+      "directed": false,
+      "density": 1.0,
+      "bridges_added": 0
+    },
+    {
+      "file": "micro_tsp_n6_complete.graph",
+      "nodes": 6,
+      "edges": 15,
+      "directed": false,
+      "density": 1.0,
+      "bridges_added": 0
+    },
+    {
+      "file": "micro_tsp_n8_complete.graph",
+      "nodes": 8,
+      "edges": 28,
+      "directed": false,
+      "density": 1.0,
+      "bridges_added": 0
+    },
+    {
+      "file": "micro_tsp_n10_complete.graph",
+      "nodes": 10,
+      "edges": 45,
+      "directed": false,
+      "density": 1.0,
+      "bridges_added": 0
+    },
+    {
+      "file": "micro_tsp_n11_complete.graph",
+      "nodes": 11,
+      "edges": 55,
+      "directed": false,
+      "density": 1.0,
+      "bridges_added": 0
+    },
+    {
+      "file": "micro_tsp_n12_complete.graph",
+      "nodes": 12,
+      "edges": 66,
+      "directed": false,
+      "density": 1.0,
+      "bridges_added": 0
+    },
+    {
+      "file": "micro_tsp_n20_complete.graph",
+      "nodes": 20,
+      "edges": 190,
+      "directed": false,
+      "density": 1.0,
+      "bridges_added": 0
+    },
+    {
+      "file": "micro_tsp_n45_complete.graph",
+      "nodes": 45,
+      "edges": 990,
+      "directed": false,
+      "density": 1.0,
+      "bridges_added": 0
+    },
+    {
+      "file": "micro_scale_n50_sparse.graph",
+      "nodes": 50,
+      "edges": 124,
+      "directed": false,
+      "density": 0.1012,
+      "bridges_added": 1
+    },
+    {
+      "file": "micro_scale_n50_complete.graph",
+      "nodes": 50,
+      "edges": 1225,
+      "directed": false,
+      "density": 1.0,
+      "bridges_added": 0
+    },
+    {
+      "file": "micro_scale_n100_sparse.graph",
+      "nodes": 100,
+      "edges": 251,
+      "directed": false,
+      "density": 0.0507,
+      "bridges_added": 6
+    },
+    {
+      "file": "micro_scale_n100_complete.graph",
+      "nodes": 100,
+      "edges": 4950,
+      "directed": false,
+      "density": 1.0,
+      "bridges_added": 0
+    },
+    {
+      "file": "micro_scale_n200_sparse.graph",
+      "nodes": 200,
+      "edges": 511,
+      "directed": false,
+      "density": 0.0257,
+      "bridges_added": 10
+    },
+    {
+      "file": "micro_scale_n200_complete.graph",
+      "nodes": 200,
+      "edges": 19900,
+      "directed": false,
+      "density": 1.0,
+      "bridges_added": 0
+    },
+    {
+      "file": "micro_scale_n400_sparse.graph",
+      "nodes": 400,
+      "edges": 1021,
+      "directed": false,
+      "density": 0.0128,
+      "bridges_added": 16
+    },
+    {
+      "file": "micro_scale_n400_complete.graph",
+      "nodes": 400,
+      "edges": 79800,
+      "directed": false,
+      "density": 1.0,
+      "bridges_added": 0
+    },
+    {
+      "file": "micro_island_sparse.graph",
+      "nodes": 1034,
+      "edges": 2648,
+      "directed": false,
+      "density": 0.005,
+      "bridges_added": 14
+    },
+    {
+      "file": "micro_island_complete.graph",
+      "nodes": 1034,
+      "edges": 534061,
+      "directed": false,
+      "density": 1.0,
+      "bridges_added": 0
+    }
+  ],
+  "tsp_anchor_poi": "Buggy's Beachhead",
+  "tsp_anchor_poi_chests": 51
+}

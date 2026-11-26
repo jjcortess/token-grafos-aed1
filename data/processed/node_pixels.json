@@ -1,0 +1,8408 @@
+{
+  "width": 2048,
+  "height": 2048,
+  "macro_pois": [
+    {
+      "id": 0,
+      "label": "Arlong_Park",
+      "name": "Arlong Park",
+      "x_px": 615.0,
+      "y_px": 1129.0,
+      "chests": 42
+    },
+    {
+      "id": 1,
+      "label": "Baratie",
+      "name": "Baratie",
+      "x_px": 1420.0,
+      "y_px": 1492.0,
+      "chests": 15
+    },
+    {
+      "id": 2,
+      "label": "Buggys_Beachhead",
+      "name": "Buggy's Beachhead",
+      "x_px": 1039.0,
+      "y_px": 863.0,
+      "chests": 51
+    },
+    {
+      "id": 3,
+      "label": "Busy_Bay",
+      "name": "Busy Bay",
+      "x_px": 1401.0,
+      "y_px": 1524.0,
+      "chests": 24
+    },
+    {
+      "id": 4,
+      "label": "Cursed_Cavern",
+      "name": "Cursed Cavern",
+      "x_px": 1198.0,
+      "y_px": 1168.0,
+      "chests": 35
+    },
+    {
+      "id": 5,
+      "label": "Giants_Battlefield",
+      "name": "Giant's Battlefield",
+      "x_px": 937.0,
+      "y_px": 1256.0,
+      "chests": 3
+    },
+    {
+      "id": 6,
+      "label": "Henry",
+      "name": "Henry",
+      "x_px": 1197.0,
+      "y_px": 1523.0,
+      "chests": 6
+    },
+    {
+      "id": 7,
+      "label": "Lantern_Landing",
+      "name": "Lantern Landing",
+      "x_px": 912.0,
+      "y_px": 1067.0,
+      "chests": 46
+    },
+    {
+      "id": 8,
+      "label": "Loguetown",
+      "name": "Loguetown",
+      "x_px": 989.0,
+      "y_px": 1410.0,
+      "chests": 44
+    },
+    {
+      "id": 9,
+      "label": "Namis_Tangerine_Grove",
+      "name": "Nami's Tangerine Grove",
+      "x_px": 714.0,
+      "y_px": 1589.0,
+      "chests": 9
+    },
+    {
+      "id": 10,
+      "label": "Plunder_Port",
+      "name": "Plunder Port",
+      "x_px": 1165.0,
+      "y_px": 1650.0,
+      "chests": 32
+    },
+    {
+      "id": 11,
+      "label": "Rubber_Resort",
+      "name": "Rubber Resort",
+      "x_px": 821.0,
+      "y_px": 718.0,
+      "chests": 45
+    },
+    {
+      "id": 12,
+      "label": "The__Rocky",
+      "name": "The $.$. Rocky",
+      "x_px": 1407.0,
+      "y_px": 1221.0,
+      "chests": 35
+    },
+    {
+      "id": 13,
+      "label": "The_Chest",
+      "name": "The Chest",
+      "x_px": 755.0,
+      "y_px": 874.0,
+      "chests": 40
+    },
+    {
+      "id": 14,
+      "label": "The_Salty_Skull",
+      "name": "The Salty Skull",
+      "x_px": 1201.0,
+      "y_px": 1215.0,
+      "chests": 12
+    },
+    {
+      "id": 15,
+      "label": "Windmill_Village",
+      "name": "Windmill Village",
+      "x_px": 754.0,
+      "y_px": 1458.0,
+      "chests": 23
+    }
+  ],
+  "micro_island": [
+    {
+      "id": 0,
+      "label": "Wild_C000",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 843.0,
+      "y_px": 776.0
+    },
+    {
+      "id": 1,
+      "label": "The_Chest_C001",
+      "poi": "The Chest",
+      "type": "chest",
+      "x_px": 736.0,
+      "y_px": 913.0
+    },
+    {
+      "id": 2,
+      "label": "Rubber_Resort_R002",
+      "poi": "Rubber Resort",
+      "type": "rare_chest",
+      "x_px": 839.0,
+      "y_px": 777.0
+    },
+    {
+      "id": 3,
+      "label": "The_Chest_B003",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 737.0,
+      "y_px": 871.0
+    },
+    {
+      "id": 4,
+      "label": "The_Chest_B004",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 769.0,
+      "y_px": 869.0
+    },
+    {
+      "id": 5,
+      "label": "The_Chest_B005",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 766.0,
+      "y_px": 886.0
+    },
+    {
+      "id": 6,
+      "label": "The_Chest_B006",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 747.0,
+      "y_px": 891.0
+    },
+    {
+      "id": 7,
+      "label": "The_Chest_B007",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 752.0,
+      "y_px": 856.0
+    },
+    {
+      "id": 8,
+      "label": "The_Chest_B008",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 723.0,
+      "y_px": 894.0
+    },
+    {
+      "id": 9,
+      "label": "The_Chest_B009",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 784.0,
+      "y_px": 849.0
+    },
+    {
+      "id": 10,
+      "label": "The_Chest_B010",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 773.0,
+      "y_px": 901.0
+    },
+    {
+      "id": 11,
+      "label": "The_Chest_B011",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 769.0,
+      "y_px": 859.0
+    },
+    {
+      "id": 12,
+      "label": "The_Chest_B012",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 735.0,
+      "y_px": 848.0
+    },
+    {
+      "id": 13,
+      "label": "The_Chest_B013",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 732.0,
+      "y_px": 888.0
+    },
+    {
+      "id": 14,
+      "label": "The_Chest_B014",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 770.0,
+      "y_px": 879.0
+    },
+    {
+      "id": 15,
+      "label": "The_Chest_B015",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 779.0,
+      "y_px": 856.0
+    },
+    {
+      "id": 16,
+      "label": "The_Chest_B016",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 725.0,
+      "y_px": 894.0
+    },
+    {
+      "id": 17,
+      "label": "The_Chest_B017",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 740.0,
+      "y_px": 862.0
+    },
+    {
+      "id": 18,
+      "label": "The_Chest_B018",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 731.0,
+      "y_px": 881.0
+    },
+    {
+      "id": 19,
+      "label": "The_Chest_B019",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 747.0,
+      "y_px": 852.0
+    },
+    {
+      "id": 20,
+      "label": "The_Chest_B020",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 768.0,
+      "y_px": 855.0
+    },
+    {
+      "id": 21,
+      "label": "The_Chest_B021",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 760.0,
+      "y_px": 894.0
+    },
+    {
+      "id": 22,
+      "label": "The_Chest_B022",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 774.0,
+      "y_px": 864.0
+    },
+    {
+      "id": 23,
+      "label": "The_Chest_B023",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 734.0,
+      "y_px": 854.0
+    },
+    {
+      "id": 24,
+      "label": "The_Chest_B024",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 769.0,
+      "y_px": 892.0
+    },
+    {
+      "id": 25,
+      "label": "The_Chest_B025",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 737.0,
+      "y_px": 891.0
+    },
+    {
+      "id": 26,
+      "label": "The_Chest_B026",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 776.0,
+      "y_px": 853.0
+    },
+    {
+      "id": 27,
+      "label": "The_Chest_B027",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 763.0,
+      "y_px": 881.0
+    },
+    {
+      "id": 28,
+      "label": "The_Chest_B028",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 771.0,
+      "y_px": 893.0
+    },
+    {
+      "id": 29,
+      "label": "The_Chest_B029",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 766.0,
+      "y_px": 874.0
+    },
+    {
+      "id": 30,
+      "label": "The_Chest_B030",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 755.0,
+      "y_px": 894.0
+    },
+    {
+      "id": 31,
+      "label": "The_Chest_B031",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 718.0,
+      "y_px": 896.0
+    },
+    {
+      "id": 32,
+      "label": "The_Chest_B032",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 760.0,
+      "y_px": 856.0
+    },
+    {
+      "id": 33,
+      "label": "The_Chest_B033",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 737.0,
+      "y_px": 881.0
+    },
+    {
+      "id": 34,
+      "label": "The_Chest_B034",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 736.0,
+      "y_px": 864.0
+    },
+    {
+      "id": 35,
+      "label": "The_Chest_B035",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 738.0,
+      "y_px": 855.0
+    },
+    {
+      "id": 36,
+      "label": "The_Chest_R036",
+      "poi": "The Chest",
+      "type": "rare_chest",
+      "x_px": 751.0,
+      "y_px": 874.0
+    },
+    {
+      "id": 37,
+      "label": "Wild_C037",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1502.0,
+      "y_px": 1448.0
+    },
+    {
+      "id": 38,
+      "label": "Wild_C038",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1492.0,
+      "y_px": 1371.0
+    },
+    {
+      "id": 39,
+      "label": "Wild_C039",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 839.0,
+      "y_px": 778.0
+    },
+    {
+      "id": 40,
+      "label": "Rubber_Resort_R040",
+      "poi": "Rubber Resort",
+      "type": "rare_chest",
+      "x_px": 838.0,
+      "y_px": 776.0
+    },
+    {
+      "id": 41,
+      "label": "Wild_C041",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 956.0,
+      "y_px": 779.0
+    },
+    {
+      "id": 42,
+      "label": "Wild_C042",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 950.0,
+      "y_px": 770.0
+    },
+    {
+      "id": 43,
+      "label": "Wild_C043",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 950.0,
+      "y_px": 777.0
+    },
+    {
+      "id": 44,
+      "label": "Wild_C044",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 951.0,
+      "y_px": 773.0
+    },
+    {
+      "id": 45,
+      "label": "Wild_C045",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 916.0,
+      "y_px": 924.0
+    },
+    {
+      "id": 46,
+      "label": "Wild_C046",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 900.0,
+      "y_px": 848.0
+    },
+    {
+      "id": 47,
+      "label": "Rubber_Resort_C047",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 838.0,
+      "y_px": 778.0
+    },
+    {
+      "id": 48,
+      "label": "Rubber_Resort_C048",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 840.0,
+      "y_px": 775.0
+    },
+    {
+      "id": 49,
+      "label": "Wild_C049",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1307.0,
+      "y_px": 1598.0
+    },
+    {
+      "id": 50,
+      "label": "Wild_C050",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1313.0,
+      "y_px": 1607.0
+    },
+    {
+      "id": 51,
+      "label": "Wild_C051",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1313.0,
+      "y_px": 1601.0
+    },
+    {
+      "id": 52,
+      "label": "Wild_C052",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1312.0,
+      "y_px": 1604.0
+    },
+    {
+      "id": 53,
+      "label": "Rubber_Resort_C053",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 838.0,
+      "y_px": 776.0
+    },
+    {
+      "id": 54,
+      "label": "Wild_C054",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 842.0,
+      "y_px": 778.0
+    },
+    {
+      "id": 55,
+      "label": "Wild_C055",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 942.0,
+      "y_px": 893.0
+    },
+    {
+      "id": 56,
+      "label": "Wild_C056",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 927.0,
+      "y_px": 900.0
+    },
+    {
+      "id": 57,
+      "label": "Wild_C057",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 936.0,
+      "y_px": 890.0
+    },
+    {
+      "id": 58,
+      "label": "Wild_C058",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 933.0,
+      "y_px": 880.0
+    },
+    {
+      "id": 59,
+      "label": "Wild_C059",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 936.0,
+      "y_px": 893.0
+    },
+    {
+      "id": 60,
+      "label": "Wild_C060",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 646.0,
+      "y_px": 985.0
+    },
+    {
+      "id": 61,
+      "label": "Wild_C061",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 638.0,
+      "y_px": 991.0
+    },
+    {
+      "id": 62,
+      "label": "Wild_C062",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 644.0,
+      "y_px": 991.0
+    },
+    {
+      "id": 63,
+      "label": "Wild_C063",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 641.0,
+      "y_px": 990.0
+    },
+    {
+      "id": 64,
+      "label": "Wild_C064",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 844.0,
+      "y_px": 778.0
+    },
+    {
+      "id": 65,
+      "label": "Rubber_Resort_C065",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 838.0,
+      "y_px": 775.0
+    },
+    {
+      "id": 66,
+      "label": "Wild_C066",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 843.0,
+      "y_px": 775.0
+    },
+    {
+      "id": 67,
+      "label": "Wild_C067",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 839.0,
+      "y_px": 778.0
+    },
+    {
+      "id": 68,
+      "label": "Wild_C068",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1131.0,
+      "y_px": 1314.0
+    },
+    {
+      "id": 69,
+      "label": "Wild_C069",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1126.0,
+      "y_px": 1327.0
+    },
+    {
+      "id": 70,
+      "label": "Wild_C070",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1424.0,
+      "y_px": 1116.0
+    },
+    {
+      "id": 71,
+      "label": "Wild_C071",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1433.0,
+      "y_px": 1110.0
+    },
+    {
+      "id": 72,
+      "label": "Wild_C072",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1427.0,
+      "y_px": 1111.0
+    },
+    {
+      "id": 73,
+      "label": "Wild_C073",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1430.0,
+      "y_px": 1112.0
+    },
+    {
+      "id": 74,
+      "label": "Lantern_Landing_C074",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 842.0,
+      "y_px": 1058.0
+    },
+    {
+      "id": 75,
+      "label": "Lantern_Landing_R075",
+      "poi": "Lantern Landing",
+      "type": "rare_chest",
+      "x_px": 840.0,
+      "y_px": 1066.0
+    },
+    {
+      "id": 76,
+      "label": "Lantern_Landing_R076",
+      "poi": "Lantern Landing",
+      "type": "rare_chest",
+      "x_px": 838.0,
+      "y_px": 1067.0
+    },
+    {
+      "id": 77,
+      "label": "Lantern_Landing_R077",
+      "poi": "Lantern Landing",
+      "type": "rare_chest",
+      "x_px": 841.0,
+      "y_px": 1068.0
+    },
+    {
+      "id": 78,
+      "label": "Lantern_Landing_R078",
+      "poi": "Lantern Landing",
+      "type": "rare_chest",
+      "x_px": 837.0,
+      "y_px": 1065.0
+    },
+    {
+      "id": 79,
+      "label": "Wild_C079",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 792.0,
+      "y_px": 1555.0
+    },
+    {
+      "id": 80,
+      "label": "Wild_C080",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 791.0,
+      "y_px": 1559.0
+    },
+    {
+      "id": 81,
+      "label": "Wild_C081",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1515.0,
+      "y_px": 1409.0
+    },
+    {
+      "id": 82,
+      "label": "Wild_C082",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1506.0,
+      "y_px": 1418.0
+    },
+    {
+      "id": 83,
+      "label": "Wild_C083",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1522.0,
+      "y_px": 1429.0
+    },
+    {
+      "id": 84,
+      "label": "Wild_C084",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1528.0,
+      "y_px": 1418.0
+    },
+    {
+      "id": 85,
+      "label": "Wild_C085",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 786.0,
+      "y_px": 1553.0
+    },
+    {
+      "id": 86,
+      "label": "Wild_C086",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 792.0,
+      "y_px": 1562.0
+    },
+    {
+      "id": 87,
+      "label": "Wild_C087",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1289.0,
+      "y_px": 1407.0
+    },
+    {
+      "id": 88,
+      "label": "Wild_C088",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1283.0,
+      "y_px": 1407.0
+    },
+    {
+      "id": 89,
+      "label": "Wild_C089",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1375.0,
+      "y_px": 892.0
+    },
+    {
+      "id": 90,
+      "label": "Wild_C090",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1384.0,
+      "y_px": 887.0
+    },
+    {
+      "id": 91,
+      "label": "Wild_C091",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1378.0,
+      "y_px": 887.0
+    },
+    {
+      "id": 92,
+      "label": "Wild_C092",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1381.0,
+      "y_px": 888.0
+    },
+    {
+      "id": 93,
+      "label": "Wild_C093",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1081.0,
+      "y_px": 1304.0
+    },
+    {
+      "id": 94,
+      "label": "Wild_C094",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1081.0,
+      "y_px": 1299.0
+    },
+    {
+      "id": 95,
+      "label": "Wild_C095",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1218.0,
+      "y_px": 1388.0
+    },
+    {
+      "id": 96,
+      "label": "Wild_C096",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1195.0,
+      "y_px": 1443.0
+    },
+    {
+      "id": 97,
+      "label": "Wild_C097",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1195.0,
+      "y_px": 1439.0
+    },
+    {
+      "id": 98,
+      "label": "Lantern_Landing_C098",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 878.0,
+      "y_px": 1085.0
+    },
+    {
+      "id": 99,
+      "label": "Lantern_Landing_C099",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 873.0,
+      "y_px": 1051.0
+    },
+    {
+      "id": 100,
+      "label": "Lantern_Landing_C100",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 874.0,
+      "y_px": 1054.0
+    },
+    {
+      "id": 101,
+      "label": "Lantern_Landing_C101",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 872.0,
+      "y_px": 1073.0
+    },
+    {
+      "id": 102,
+      "label": "Lantern_Landing_C102",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 863.0,
+      "y_px": 1062.0
+    },
+    {
+      "id": 103,
+      "label": "Busy_Bay_C103",
+      "poi": "Busy Bay",
+      "type": "chest",
+      "x_px": 1390.0,
+      "y_px": 1476.0
+    },
+    {
+      "id": 104,
+      "label": "Busy_Bay_C104",
+      "poi": "Busy Bay",
+      "type": "chest",
+      "x_px": 1383.0,
+      "y_px": 1459.0
+    },
+    {
+      "id": 105,
+      "label": "Busy_Bay_C105",
+      "poi": "Busy Bay",
+      "type": "chest",
+      "x_px": 1401.0,
+      "y_px": 1496.0
+    },
+    {
+      "id": 106,
+      "label": "Busy_Bay_C106",
+      "poi": "Busy Bay",
+      "type": "chest",
+      "x_px": 1402.0,
+      "y_px": 1516.0
+    },
+    {
+      "id": 107,
+      "label": "Busy_Bay_C107",
+      "poi": "Busy Bay",
+      "type": "chest",
+      "x_px": 1396.0,
+      "y_px": 1532.0
+    },
+    {
+      "id": 108,
+      "label": "Wild_C108",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1574.0,
+      "y_px": 1562.0
+    },
+    {
+      "id": 109,
+      "label": "Wild_C109",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1562.0,
+      "y_px": 1571.0
+    },
+    {
+      "id": 110,
+      "label": "Wild_C110",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 689.0,
+      "y_px": 1269.0
+    },
+    {
+      "id": 111,
+      "label": "Wild_C111",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 766.0,
+      "y_px": 1024.0
+    },
+    {
+      "id": 112,
+      "label": "Wild_C112",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 725.0,
+      "y_px": 1043.0
+    },
+    {
+      "id": 113,
+      "label": "Wild_C113",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 774.0,
+      "y_px": 1040.0
+    },
+    {
+      "id": 114,
+      "label": "Wild_C114",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 764.0,
+      "y_px": 1030.0
+    },
+    {
+      "id": 115,
+      "label": "Rubber_Resort_C115",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 839.0,
+      "y_px": 776.0
+    },
+    {
+      "id": 116,
+      "label": "Wild_C116",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 842.0,
+      "y_px": 778.0
+    },
+    {
+      "id": 117,
+      "label": "Wild_C117",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 843.0,
+      "y_px": 777.0
+    },
+    {
+      "id": 118,
+      "label": "Wild_C118",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1228.0,
+      "y_px": 1331.0
+    },
+    {
+      "id": 119,
+      "label": "Wild_C119",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 773.0,
+      "y_px": 1105.0
+    },
+    {
+      "id": 120,
+      "label": "Wild_C120",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 760.0,
+      "y_px": 1108.0
+    },
+    {
+      "id": 121,
+      "label": "Wild_C121",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 740.0,
+      "y_px": 1022.0
+    },
+    {
+      "id": 122,
+      "label": "Wild_C122",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 741.0,
+      "y_px": 1336.0
+    },
+    {
+      "id": 123,
+      "label": "Wild_C123",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 841.0,
+      "y_px": 1399.0
+    },
+    {
+      "id": 124,
+      "label": "Wild_C124",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 798.0,
+      "y_px": 1385.0
+    },
+    {
+      "id": 125,
+      "label": "Wild_C125",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 728.0,
+      "y_px": 1351.0
+    },
+    {
+      "id": 126,
+      "label": "Wild_C126",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 727.0,
+      "y_px": 1313.0
+    },
+    {
+      "id": 127,
+      "label": "Wild_C127",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 758.0,
+      "y_px": 1320.0
+    },
+    {
+      "id": 128,
+      "label": "Wild_C128",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 727.0,
+      "y_px": 1333.0
+    },
+    {
+      "id": 129,
+      "label": "Wild_C129",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 883.0,
+      "y_px": 1589.0
+    },
+    {
+      "id": 130,
+      "label": "Wild_C130",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 944.0,
+      "y_px": 1629.0
+    },
+    {
+      "id": 131,
+      "label": "Wild_C131",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 955.0,
+      "y_px": 1630.0
+    },
+    {
+      "id": 132,
+      "label": "Wild_C132",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1309.0,
+      "y_px": 1332.0
+    },
+    {
+      "id": 133,
+      "label": "Wild_C133",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1307.0,
+      "y_px": 1343.0
+    },
+    {
+      "id": 134,
+      "label": "Wild_C134",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1294.0,
+      "y_px": 1319.0
+    },
+    {
+      "id": 135,
+      "label": "Wild_C135",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1267.0,
+      "y_px": 1317.0
+    },
+    {
+      "id": 136,
+      "label": "Wild_C136",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1256.0,
+      "y_px": 1310.0
+    },
+    {
+      "id": 137,
+      "label": "Wild_C137",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1437.0,
+      "y_px": 706.0
+    },
+    {
+      "id": 138,
+      "label": "Wild_C138",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1001.0,
+      "y_px": 1511.0
+    },
+    {
+      "id": 139,
+      "label": "Wild_C139",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 984.0,
+      "y_px": 1525.0
+    },
+    {
+      "id": 140,
+      "label": "Wild_C140",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 975.0,
+      "y_px": 1516.0
+    },
+    {
+      "id": 141,
+      "label": "Wild_C141",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 976.0,
+      "y_px": 1535.0
+    },
+    {
+      "id": 142,
+      "label": "Wild_C142",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1046.0,
+      "y_px": 1512.0
+    },
+    {
+      "id": 143,
+      "label": "Wild_C143",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1049.0,
+      "y_px": 1515.0
+    },
+    {
+      "id": 144,
+      "label": "Wild_C144",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1052.0,
+      "y_px": 1495.0
+    },
+    {
+      "id": 145,
+      "label": "Loguetown_C145",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 975.0,
+      "y_px": 1459.0
+    },
+    {
+      "id": 146,
+      "label": "Wild_C146",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 870.0,
+      "y_px": 1539.0
+    },
+    {
+      "id": 147,
+      "label": "Wild_C147",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 836.0,
+      "y_px": 1500.0
+    },
+    {
+      "id": 148,
+      "label": "Wild_B148",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 859.0,
+      "y_px": 1480.0
+    },
+    {
+      "id": 149,
+      "label": "Wild_B149",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 860.0,
+      "y_px": 1479.0
+    },
+    {
+      "id": 150,
+      "label": "Wild_C150",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1054.0,
+      "y_px": 1634.0
+    },
+    {
+      "id": 151,
+      "label": "Wild_C151",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1279.0,
+      "y_px": 771.0
+    },
+    {
+      "id": 152,
+      "label": "Wild_C152",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1239.0,
+      "y_px": 811.0
+    },
+    {
+      "id": 153,
+      "label": "Wild_R153",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 1309.0,
+      "y_px": 832.0
+    },
+    {
+      "id": 154,
+      "label": "Wild_R154",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 1306.0,
+      "y_px": 833.0
+    },
+    {
+      "id": 155,
+      "label": "Wild_R155",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 1309.0,
+      "y_px": 833.0
+    },
+    {
+      "id": 156,
+      "label": "Wild_R156",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 1305.0,
+      "y_px": 831.0
+    },
+    {
+      "id": 157,
+      "label": "The__Rocky_C157",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1441.0,
+      "y_px": 1175.0
+    },
+    {
+      "id": 158,
+      "label": "Wild_B158",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1434.0,
+      "y_px": 1146.0
+    },
+    {
+      "id": 159,
+      "label": "Wild_B159",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1434.0,
+      "y_px": 1144.0
+    },
+    {
+      "id": 160,
+      "label": "Wild_C160",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1278.0,
+      "y_px": 1162.0
+    },
+    {
+      "id": 161,
+      "label": "Cursed_Cavern_C161",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1251.0,
+      "y_px": 1146.0
+    },
+    {
+      "id": 162,
+      "label": "Wild_C162",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1264.0,
+      "y_px": 1123.0
+    },
+    {
+      "id": 163,
+      "label": "Arlong_Park_C163",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 672.0,
+      "y_px": 1124.0
+    },
+    {
+      "id": 164,
+      "label": "Arlong_Park_C164",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 647.0,
+      "y_px": 1162.0
+    },
+    {
+      "id": 165,
+      "label": "Arlong_Park_C165",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 638.0,
+      "y_px": 1151.0
+    },
+    {
+      "id": 166,
+      "label": "Wild_C166",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 857.0,
+      "y_px": 1502.0
+    },
+    {
+      "id": 167,
+      "label": "Arlong_Park_C167",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 620.0,
+      "y_px": 1125.0
+    },
+    {
+      "id": 168,
+      "label": "Wild_C168",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 853.0,
+      "y_px": 1507.0
+    },
+    {
+      "id": 169,
+      "label": "Arlong_Park_C169",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 676.0,
+      "y_px": 1162.0
+    },
+    {
+      "id": 170,
+      "label": "Arlong_Park_C170",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 678.0,
+      "y_px": 1139.0
+    },
+    {
+      "id": 171,
+      "label": "Arlong_Park_C171",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 650.0,
+      "y_px": 1113.0
+    },
+    {
+      "id": 172,
+      "label": "Arlong_Park_C172",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 616.0,
+      "y_px": 1137.0
+    },
+    {
+      "id": 173,
+      "label": "Arlong_Park_C173",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 650.0,
+      "y_px": 1152.0
+    },
+    {
+      "id": 174,
+      "label": "Arlong_Park_C174",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 648.0,
+      "y_px": 1150.0
+    },
+    {
+      "id": 175,
+      "label": "Arlong_Park_C175",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 647.0,
+      "y_px": 1149.0
+    },
+    {
+      "id": 176,
+      "label": "Wild_C176",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1404.0,
+      "y_px": 862.0
+    },
+    {
+      "id": 177,
+      "label": "Wild_C177",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1440.0,
+      "y_px": 878.0
+    },
+    {
+      "id": 178,
+      "label": "Wild_C178",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1402.0,
+      "y_px": 851.0
+    },
+    {
+      "id": 179,
+      "label": "Wild_C179",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1400.0,
+      "y_px": 846.0
+    },
+    {
+      "id": 180,
+      "label": "Busy_Bay_C180",
+      "poi": "Busy Bay",
+      "type": "chest",
+      "x_px": 1447.0,
+      "y_px": 1547.0
+    },
+    {
+      "id": 181,
+      "label": "The__Rocky_C181",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1405.0,
+      "y_px": 1195.0
+    },
+    {
+      "id": 182,
+      "label": "The__Rocky_C182",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1442.0,
+      "y_px": 1195.0
+    },
+    {
+      "id": 183,
+      "label": "Wild_C183",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1472.0,
+      "y_px": 1153.0
+    },
+    {
+      "id": 184,
+      "label": "The__Rocky_C184",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1403.0,
+      "y_px": 1195.0
+    },
+    {
+      "id": 185,
+      "label": "The__Rocky_C185",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1404.0,
+      "y_px": 1195.0
+    },
+    {
+      "id": 186,
+      "label": "The__Rocky_C186",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1410.0,
+      "y_px": 1193.0
+    },
+    {
+      "id": 187,
+      "label": "Wild_C187",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1306.0,
+      "y_px": 913.0
+    },
+    {
+      "id": 188,
+      "label": "Wild_C188",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1247.0,
+      "y_px": 910.0
+    },
+    {
+      "id": 189,
+      "label": "Wild_C189",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1248.0,
+      "y_px": 870.0
+    },
+    {
+      "id": 190,
+      "label": "Wild_C190",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1357.0,
+      "y_px": 1372.0
+    },
+    {
+      "id": 191,
+      "label": "Wild_C191",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1561.0,
+      "y_px": 907.0
+    },
+    {
+      "id": 192,
+      "label": "Wild_C192",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1558.0,
+      "y_px": 898.0
+    },
+    {
+      "id": 193,
+      "label": "Wild_C193",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1577.0,
+      "y_px": 888.0
+    },
+    {
+      "id": 194,
+      "label": "Wild_C194",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1561.0,
+      "y_px": 898.0
+    },
+    {
+      "id": 195,
+      "label": "Wild_C195",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1559.0,
+      "y_px": 907.0
+    },
+    {
+      "id": 196,
+      "label": "Wild_C196",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1561.0,
+      "y_px": 902.0
+    },
+    {
+      "id": 197,
+      "label": "Wild_C197",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1551.0,
+      "y_px": 908.0
+    },
+    {
+      "id": 198,
+      "label": "Wild_C198",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1350.0,
+      "y_px": 1101.0
+    },
+    {
+      "id": 199,
+      "label": "Wild_C199",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1361.0,
+      "y_px": 1101.0
+    },
+    {
+      "id": 200,
+      "label": "Arlong_Park_C200",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 622.0,
+      "y_px": 1068.0
+    },
+    {
+      "id": 201,
+      "label": "Wild_C201",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 885.0,
+      "y_px": 1450.0
+    },
+    {
+      "id": 202,
+      "label": "Loguetown_C202",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 954.0,
+      "y_px": 1413.0
+    },
+    {
+      "id": 203,
+      "label": "Loguetown_C203",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 956.0,
+      "y_px": 1411.0
+    },
+    {
+      "id": 204,
+      "label": "Wild_C204",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 895.0,
+      "y_px": 1388.0
+    },
+    {
+      "id": 205,
+      "label": "Lantern_Landing_C205",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 912.0,
+      "y_px": 1076.0
+    },
+    {
+      "id": 206,
+      "label": "Lantern_Landing_C206",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 918.0,
+      "y_px": 1083.0
+    },
+    {
+      "id": 207,
+      "label": "Lantern_Landing_C207",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 914.0,
+      "y_px": 1085.0
+    },
+    {
+      "id": 208,
+      "label": "Lantern_Landing_C208",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 932.0,
+      "y_px": 1086.0
+    },
+    {
+      "id": 209,
+      "label": "Lantern_Landing_C209",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 932.0,
+      "y_px": 1082.0
+    },
+    {
+      "id": 210,
+      "label": "Lantern_Landing_C210",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 918.0,
+      "y_px": 1055.0
+    },
+    {
+      "id": 211,
+      "label": "Lantern_Landing_C211",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 919.0,
+      "y_px": 1048.0
+    },
+    {
+      "id": 212,
+      "label": "Lantern_Landing_C212",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 917.0,
+      "y_px": 1052.0
+    },
+    {
+      "id": 213,
+      "label": "Lantern_Landing_C213",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 925.0,
+      "y_px": 1057.0
+    },
+    {
+      "id": 214,
+      "label": "Lantern_Landing_C214",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 942.0,
+      "y_px": 1064.0
+    },
+    {
+      "id": 215,
+      "label": "Lantern_Landing_C215",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 935.0,
+      "y_px": 1068.0
+    },
+    {
+      "id": 216,
+      "label": "Lantern_Landing_C216",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 940.0,
+      "y_px": 1067.0
+    },
+    {
+      "id": 217,
+      "label": "Lantern_Landing_C217",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 933.0,
+      "y_px": 1062.0
+    },
+    {
+      "id": 218,
+      "label": "Lantern_Landing_C218",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 942.0,
+      "y_px": 1058.0
+    },
+    {
+      "id": 219,
+      "label": "Lantern_Landing_C219",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 889.0,
+      "y_px": 1070.0
+    },
+    {
+      "id": 220,
+      "label": "Lantern_Landing_C220",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 889.0,
+      "y_px": 1054.0
+    },
+    {
+      "id": 221,
+      "label": "Lantern_Landing_C221",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 880.0,
+      "y_px": 1064.0
+    },
+    {
+      "id": 222,
+      "label": "Lantern_Landing_C222",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 880.0,
+      "y_px": 1068.0
+    },
+    {
+      "id": 223,
+      "label": "Lantern_Landing_C223",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 893.0,
+      "y_px": 1062.0
+    },
+    {
+      "id": 224,
+      "label": "Lantern_Landing_C224",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 887.0,
+      "y_px": 1061.0
+    },
+    {
+      "id": 225,
+      "label": "Lantern_Landing_C225",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 887.0,
+      "y_px": 1065.0
+    },
+    {
+      "id": 226,
+      "label": "Lantern_Landing_C226",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 890.0,
+      "y_px": 1075.0
+    },
+    {
+      "id": 227,
+      "label": "Lantern_Landing_C227",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 926.0,
+      "y_px": 1068.0
+    },
+    {
+      "id": 228,
+      "label": "Lantern_Landing_C228",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 926.0,
+      "y_px": 1090.0
+    },
+    {
+      "id": 229,
+      "label": "Lantern_Landing_C229",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 945.0,
+      "y_px": 1085.0
+    },
+    {
+      "id": 230,
+      "label": "Lantern_Landing_C230",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 912.0,
+      "y_px": 1078.0
+    },
+    {
+      "id": 231,
+      "label": "Lantern_Landing_C231",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 899.0,
+      "y_px": 1053.0
+    },
+    {
+      "id": 232,
+      "label": "Lantern_Landing_C232",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 953.0,
+      "y_px": 1060.0
+    },
+    {
+      "id": 233,
+      "label": "Lantern_Landing_C233",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 922.0,
+      "y_px": 1095.0
+    },
+    {
+      "id": 234,
+      "label": "Lantern_Landing_C234",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 891.0,
+      "y_px": 1091.0
+    },
+    {
+      "id": 235,
+      "label": "Lantern_Landing_C235",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 884.0,
+      "y_px": 1083.0
+    },
+    {
+      "id": 236,
+      "label": "Lantern_Landing_C236",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 928.0,
+      "y_px": 1039.0
+    },
+    {
+      "id": 237,
+      "label": "Lantern_Landing_C237",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 938.0,
+      "y_px": 1041.0
+    },
+    {
+      "id": 238,
+      "label": "Lantern_Landing_C238",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 930.0,
+      "y_px": 1044.0
+    },
+    {
+      "id": 239,
+      "label": "Lantern_Landing_C239",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 891.0,
+      "y_px": 1046.0
+    },
+    {
+      "id": 240,
+      "label": "Wild_C240",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1310.0,
+      "y_px": 665.0
+    },
+    {
+      "id": 241,
+      "label": "Wild_C241",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1443.0,
+      "y_px": 1616.0
+    },
+    {
+      "id": 242,
+      "label": "Wild_C242",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1437.0,
+      "y_px": 1610.0
+    },
+    {
+      "id": 243,
+      "label": "Busy_Bay_C243",
+      "poi": "Busy Bay",
+      "type": "chest",
+      "x_px": 1411.0,
+      "y_px": 1566.0
+    },
+    {
+      "id": 244,
+      "label": "Busy_Bay_C244",
+      "poi": "Busy Bay",
+      "type": "chest",
+      "x_px": 1407.0,
+      "y_px": 1570.0
+    },
+    {
+      "id": 245,
+      "label": "Wild_C245",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1408.0,
+      "y_px": 1584.0
+    },
+    {
+      "id": 246,
+      "label": "Wild_C246",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1404.0,
+      "y_px": 1576.0
+    },
+    {
+      "id": 247,
+      "label": "Cursed_Cavern_C247",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1230.0,
+      "y_px": 1183.0
+    },
+    {
+      "id": 248,
+      "label": "Cursed_Cavern_C248",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1229.0,
+      "y_px": 1172.0
+    },
+    {
+      "id": 249,
+      "label": "Wild_C249",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1255.0,
+      "y_px": 1164.0
+    },
+    {
+      "id": 250,
+      "label": "Wild_C250",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1265.0,
+      "y_px": 1169.0
+    },
+    {
+      "id": 251,
+      "label": "Cursed_Cavern_C251",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1228.0,
+      "y_px": 1163.0
+    },
+    {
+      "id": 252,
+      "label": "Cursed_Cavern_C252",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1249.0,
+      "y_px": 1159.0
+    },
+    {
+      "id": 253,
+      "label": "Henry_C253",
+      "poi": "Henry",
+      "type": "chest",
+      "x_px": 1162.0,
+      "y_px": 1531.0
+    },
+    {
+      "id": 254,
+      "label": "Henry_C254",
+      "poi": "Henry",
+      "type": "chest",
+      "x_px": 1207.0,
+      "y_px": 1523.0
+    },
+    {
+      "id": 255,
+      "label": "Henry_C255",
+      "poi": "Henry",
+      "type": "chest",
+      "x_px": 1194.0,
+      "y_px": 1516.0
+    },
+    {
+      "id": 256,
+      "label": "Henry_C256",
+      "poi": "Henry",
+      "type": "chest",
+      "x_px": 1197.0,
+      "y_px": 1530.0
+    },
+    {
+      "id": 257,
+      "label": "Henry_C257",
+      "poi": "Henry",
+      "type": "chest",
+      "x_px": 1201.0,
+      "y_px": 1504.0
+    },
+    {
+      "id": 258,
+      "label": "Wild_C258",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1143.0,
+      "y_px": 1525.0
+    },
+    {
+      "id": 259,
+      "label": "Busy_Bay_C259",
+      "poi": "Busy Bay",
+      "type": "chest",
+      "x_px": 1387.0,
+      "y_px": 1453.0
+    },
+    {
+      "id": 260,
+      "label": "Busy_Bay_C260",
+      "poi": "Busy Bay",
+      "type": "chest",
+      "x_px": 1379.0,
+      "y_px": 1447.0
+    },
+    {
+      "id": 261,
+      "label": "Wild_C261",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1387.0,
+      "y_px": 1417.0
+    },
+    {
+      "id": 262,
+      "label": "Wild_C262",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1371.0,
+      "y_px": 1295.0
+    },
+    {
+      "id": 263,
+      "label": "Wild_C263",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 639.0,
+      "y_px": 896.0
+    },
+    {
+      "id": 264,
+      "label": "Wild_C264",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1359.0,
+      "y_px": 1296.0
+    },
+    {
+      "id": 265,
+      "label": "Wild_C265",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1362.0,
+      "y_px": 1290.0
+    },
+    {
+      "id": 266,
+      "label": "Wild_C266",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1358.0,
+      "y_px": 1368.0
+    },
+    {
+      "id": 267,
+      "label": "Wild_C267",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1365.0,
+      "y_px": 1355.0
+    },
+    {
+      "id": 268,
+      "label": "Wild_C268",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1356.0,
+      "y_px": 1105.0
+    },
+    {
+      "id": 269,
+      "label": "Wild_C269",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 842.0,
+      "y_px": 943.0
+    },
+    {
+      "id": 270,
+      "label": "Wild_C270",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 848.0,
+      "y_px": 942.0
+    },
+    {
+      "id": 271,
+      "label": "Wild_C271",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 862.0,
+      "y_px": 943.0
+    },
+    {
+      "id": 272,
+      "label": "Arlong_Park_C272",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 673.0,
+      "y_px": 1102.0
+    },
+    {
+      "id": 273,
+      "label": "Arlong_Park_C273",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 639.0,
+      "y_px": 1102.0
+    },
+    {
+      "id": 274,
+      "label": "Henry_C274",
+      "poi": "Henry",
+      "type": "chest",
+      "x_px": 1196.0,
+      "y_px": 1523.0
+    },
+    {
+      "id": 275,
+      "label": "Arlong_Park_C275",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 575.0,
+      "y_px": 1074.0
+    },
+    {
+      "id": 276,
+      "label": "Arlong_Park_C276",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 609.0,
+      "y_px": 1068.0
+    },
+    {
+      "id": 277,
+      "label": "Wild_C277",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1474.0,
+      "y_px": 1306.0
+    },
+    {
+      "id": 278,
+      "label": "Wild_C278",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1452.0,
+      "y_px": 1302.0
+    },
+    {
+      "id": 279,
+      "label": "Wild_C279",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 560.0,
+      "y_px": 1468.0
+    },
+    {
+      "id": 280,
+      "label": "Wild_C280",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 563.0,
+      "y_px": 1460.0
+    },
+    {
+      "id": 281,
+      "label": "Windmill_Village_C281",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 666.0,
+      "y_px": 1469.0
+    },
+    {
+      "id": 282,
+      "label": "Wild_C282",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 639.0,
+      "y_px": 1526.0
+    },
+    {
+      "id": 283,
+      "label": "Wild_C283",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1317.0,
+      "y_px": 1327.0
+    },
+    {
+      "id": 284,
+      "label": "Wild_C284",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1325.0,
+      "y_px": 1333.0
+    },
+    {
+      "id": 285,
+      "label": "Wild_C285",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 638.0,
+      "y_px": 922.0
+    },
+    {
+      "id": 286,
+      "label": "Wild_C286",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 633.0,
+      "y_px": 915.0
+    },
+    {
+      "id": 287,
+      "label": "Wild_C287",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 845.0,
+      "y_px": 942.0
+    },
+    {
+      "id": 288,
+      "label": "Wild_C288",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 854.0,
+      "y_px": 962.0
+    },
+    {
+      "id": 289,
+      "label": "Wild_C289",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 860.0,
+      "y_px": 959.0
+    },
+    {
+      "id": 290,
+      "label": "Wild_C290",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1209.0,
+      "y_px": 1015.0
+    },
+    {
+      "id": 291,
+      "label": "Wild_C291",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1186.0,
+      "y_px": 944.0
+    },
+    {
+      "id": 292,
+      "label": "Wild_C292",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1178.0,
+      "y_px": 1004.0
+    },
+    {
+      "id": 293,
+      "label": "Wild_C293",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1180.0,
+      "y_px": 1008.0
+    },
+    {
+      "id": 294,
+      "label": "Wild_C294",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1183.0,
+      "y_px": 1011.0
+    },
+    {
+      "id": 295,
+      "label": "Wild_C295",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1212.0,
+      "y_px": 975.0
+    },
+    {
+      "id": 296,
+      "label": "Wild_C296",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1431.0,
+      "y_px": 1358.0
+    },
+    {
+      "id": 297,
+      "label": "Wild_C297",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1431.0,
+      "y_px": 1349.0
+    },
+    {
+      "id": 298,
+      "label": "Wild_C298",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1438.0,
+      "y_px": 1357.0
+    },
+    {
+      "id": 299,
+      "label": "Wild_C299",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1333.0,
+      "y_px": 1152.0
+    },
+    {
+      "id": 300,
+      "label": "Wild_C300",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1333.0,
+      "y_px": 1160.0
+    },
+    {
+      "id": 301,
+      "label": "Wild_C301",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1135.0,
+      "y_px": 1555.0
+    },
+    {
+      "id": 302,
+      "label": "Wild_B302",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1077.0,
+      "y_px": 1566.0
+    },
+    {
+      "id": 303,
+      "label": "Wild_B303",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1076.0,
+      "y_px": 1566.0
+    },
+    {
+      "id": 304,
+      "label": "Wild_C304",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 803.0,
+      "y_px": 1145.0
+    },
+    {
+      "id": 305,
+      "label": "Arlong_Park_C305",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 606.0,
+      "y_px": 1066.0
+    },
+    {
+      "id": 306,
+      "label": "Arlong_Park_C306",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 607.0,
+      "y_px": 1057.0
+    },
+    {
+      "id": 307,
+      "label": "Wild_C307",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 661.0,
+      "y_px": 1471.0
+    },
+    {
+      "id": 308,
+      "label": "Wild_C308",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 661.0,
+      "y_px": 1468.0
+    },
+    {
+      "id": 309,
+      "label": "Wild_C309",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1368.0,
+      "y_px": 1123.0
+    },
+    {
+      "id": 310,
+      "label": "Wild_C310",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1349.0,
+      "y_px": 1111.0
+    },
+    {
+      "id": 311,
+      "label": "Wild_C311",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1088.0,
+      "y_px": 1183.0
+    },
+    {
+      "id": 312,
+      "label": "Wild_C312",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1095.0,
+      "y_px": 1184.0
+    },
+    {
+      "id": 313,
+      "label": "Wild_C313",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1107.0,
+      "y_px": 1133.0
+    },
+    {
+      "id": 314,
+      "label": "Wild_C314",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1502.0,
+      "y_px": 1668.0
+    },
+    {
+      "id": 315,
+      "label": "Wild_C315",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1503.0,
+      "y_px": 1645.0
+    },
+    {
+      "id": 316,
+      "label": "Plunder_Port_C316",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1088.0,
+      "y_px": 1600.0
+    },
+    {
+      "id": 317,
+      "label": "Wild_C317",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 824.0,
+      "y_px": 1157.0
+    },
+    {
+      "id": 318,
+      "label": "Wild_C318",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 817.0,
+      "y_px": 1168.0
+    },
+    {
+      "id": 319,
+      "label": "Wild_C319",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 804.0,
+      "y_px": 1157.0
+    },
+    {
+      "id": 320,
+      "label": "Wild_C320",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 816.0,
+      "y_px": 1147.0
+    },
+    {
+      "id": 321,
+      "label": "Wild_C321",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1494.0,
+      "y_px": 1656.0
+    },
+    {
+      "id": 322,
+      "label": "Wild_C322",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1504.0,
+      "y_px": 1670.0
+    },
+    {
+      "id": 323,
+      "label": "Wild_C323",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1218.0,
+      "y_px": 966.0
+    },
+    {
+      "id": 324,
+      "label": "Wild_C324",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1192.0,
+      "y_px": 1013.0
+    },
+    {
+      "id": 325,
+      "label": "Wild_C325",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1216.0,
+      "y_px": 966.0
+    },
+    {
+      "id": 326,
+      "label": "Loguetown_C326",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 960.0,
+      "y_px": 1410.0
+    },
+    {
+      "id": 327,
+      "label": "Loguetown_C327",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 953.0,
+      "y_px": 1403.0
+    },
+    {
+      "id": 328,
+      "label": "Loguetown_C328",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 958.0,
+      "y_px": 1397.0
+    },
+    {
+      "id": 329,
+      "label": "Loguetown_C329",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 950.0,
+      "y_px": 1413.0
+    },
+    {
+      "id": 330,
+      "label": "Loguetown_C330",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 949.0,
+      "y_px": 1440.0
+    },
+    {
+      "id": 331,
+      "label": "Loguetown_C331",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 957.0,
+      "y_px": 1389.0
+    },
+    {
+      "id": 332,
+      "label": "Loguetown_C332",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 954.0,
+      "y_px": 1430.0
+    },
+    {
+      "id": 333,
+      "label": "Wild_C333",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 969.0,
+      "y_px": 977.0
+    },
+    {
+      "id": 334,
+      "label": "Wild_C334",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 965.0,
+      "y_px": 989.0
+    },
+    {
+      "id": 335,
+      "label": "Wild_C335",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1035.0,
+      "y_px": 1015.0
+    },
+    {
+      "id": 336,
+      "label": "Wild_C336",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1052.0,
+      "y_px": 973.0
+    },
+    {
+      "id": 337,
+      "label": "Wild_C337",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1052.0,
+      "y_px": 968.0
+    },
+    {
+      "id": 338,
+      "label": "The_Chest_C338",
+      "poi": "The Chest",
+      "type": "chest",
+      "x_px": 763.0,
+      "y_px": 837.0
+    },
+    {
+      "id": 339,
+      "label": "Wild_C339",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 801.0,
+      "y_px": 1338.0
+    },
+    {
+      "id": 340,
+      "label": "The_Chest_C340",
+      "poi": "The Chest",
+      "type": "chest",
+      "x_px": 790.0,
+      "y_px": 829.0
+    },
+    {
+      "id": 341,
+      "label": "Wild_C341",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 872.0,
+      "y_px": 1331.0
+    },
+    {
+      "id": 342,
+      "label": "Wild_C342",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 756.0,
+      "y_px": 797.0
+    },
+    {
+      "id": 343,
+      "label": "Wild_C343",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1059.0,
+      "y_px": 1173.0
+    },
+    {
+      "id": 344,
+      "label": "Wild_C344",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1053.0,
+      "y_px": 1186.0
+    },
+    {
+      "id": 345,
+      "label": "Rubber_Resort_C345",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 778.0,
+      "y_px": 714.0
+    },
+    {
+      "id": 346,
+      "label": "Rubber_Resort_C346",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 785.0,
+      "y_px": 725.0
+    },
+    {
+      "id": 347,
+      "label": "Rubber_Resort_C347",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 778.0,
+      "y_px": 717.0
+    },
+    {
+      "id": 348,
+      "label": "Rubber_Resort_C348",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 769.0,
+      "y_px": 724.0
+    },
+    {
+      "id": 349,
+      "label": "Rubber_Resort_C349",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 775.0,
+      "y_px": 718.0
+    },
+    {
+      "id": 350,
+      "label": "Rubber_Resort_C350",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 774.0,
+      "y_px": 721.0
+    },
+    {
+      "id": 351,
+      "label": "Rubber_Resort_C351",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 767.0,
+      "y_px": 723.0
+    },
+    {
+      "id": 352,
+      "label": "Wild_C352",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1129.0,
+      "y_px": 1526.0
+    },
+    {
+      "id": 353,
+      "label": "Wild_R353",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 727.0,
+      "y_px": 769.0
+    },
+    {
+      "id": 354,
+      "label": "Wild_C354",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1090.0,
+      "y_px": 1489.0
+    },
+    {
+      "id": 355,
+      "label": "Wild_R355",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 729.0,
+      "y_px": 772.0
+    },
+    {
+      "id": 356,
+      "label": "Wild_R356",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 729.0,
+      "y_px": 768.0
+    },
+    {
+      "id": 357,
+      "label": "Wild_R357",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 727.0,
+      "y_px": 772.0
+    },
+    {
+      "id": 358,
+      "label": "Wild_C358",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1321.0,
+      "y_px": 842.0
+    },
+    {
+      "id": 359,
+      "label": "Wild_C359",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1314.0,
+      "y_px": 835.0
+    },
+    {
+      "id": 360,
+      "label": "The_Chest_B360",
+      "poi": "The Chest",
+      "type": "buried_chest",
+      "x_px": 732.0,
+      "y_px": 841.0
+    },
+    {
+      "id": 361,
+      "label": "Buggys_Beachhead_C361",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1042.0,
+      "y_px": 903.0
+    },
+    {
+      "id": 362,
+      "label": "Wild_C362",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 978.0,
+      "y_px": 928.0
+    },
+    {
+      "id": 363,
+      "label": "Wild_C363",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 977.0,
+      "y_px": 1031.0
+    },
+    {
+      "id": 364,
+      "label": "Wild_C364",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 992.0,
+      "y_px": 941.0
+    },
+    {
+      "id": 365,
+      "label": "Wild_C365",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1034.0,
+      "y_px": 1108.0
+    },
+    {
+      "id": 366,
+      "label": "Wild_C366",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 990.0,
+      "y_px": 1084.0
+    },
+    {
+      "id": 367,
+      "label": "Wild_C367",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 752.0,
+      "y_px": 778.0
+    },
+    {
+      "id": 368,
+      "label": "Wild_C368",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1088.0,
+      "y_px": 1542.0
+    },
+    {
+      "id": 369,
+      "label": "Wild_C369",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1113.0,
+      "y_px": 1539.0
+    },
+    {
+      "id": 370,
+      "label": "Wild_C370",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1324.0,
+      "y_px": 813.0
+    },
+    {
+      "id": 371,
+      "label": "Wild_C371",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1323.0,
+      "y_px": 820.0
+    },
+    {
+      "id": 372,
+      "label": "Wild_C372",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1332.0,
+      "y_px": 842.0
+    },
+    {
+      "id": 373,
+      "label": "Wild_C373",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1316.0,
+      "y_px": 828.0
+    },
+    {
+      "id": 374,
+      "label": "Wild_C374",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1315.0,
+      "y_px": 831.0
+    },
+    {
+      "id": 375,
+      "label": "Wild_C375",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1316.0,
+      "y_px": 828.0
+    },
+    {
+      "id": 376,
+      "label": "Wild_C376",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1319.0,
+      "y_px": 836.0
+    },
+    {
+      "id": 377,
+      "label": "Wild_C377",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1323.0,
+      "y_px": 829.0
+    },
+    {
+      "id": 378,
+      "label": "Wild_C378",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1316.0,
+      "y_px": 842.0
+    },
+    {
+      "id": 379,
+      "label": "Wild_C379",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1342.0,
+      "y_px": 838.0
+    },
+    {
+      "id": 380,
+      "label": "Wild_C380",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1320.0,
+      "y_px": 806.0
+    },
+    {
+      "id": 381,
+      "label": "Wild_C381",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 838.0,
+      "y_px": 1335.0
+    },
+    {
+      "id": 382,
+      "label": "Wild_C382",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 842.0,
+      "y_px": 1313.0
+    },
+    {
+      "id": 383,
+      "label": "Wild_C383",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 831.0,
+      "y_px": 1322.0
+    },
+    {
+      "id": 384,
+      "label": "Wild_C384",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 837.0,
+      "y_px": 1321.0
+    },
+    {
+      "id": 385,
+      "label": "Wild_C385",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 850.0,
+      "y_px": 1324.0
+    },
+    {
+      "id": 386,
+      "label": "Wild_C386",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 831.0,
+      "y_px": 1317.0
+    },
+    {
+      "id": 387,
+      "label": "Wild_C387",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 841.0,
+      "y_px": 1317.0
+    },
+    {
+      "id": 388,
+      "label": "Wild_C388",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 604.0,
+      "y_px": 1351.0
+    },
+    {
+      "id": 389,
+      "label": "Wild_C389",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 580.0,
+      "y_px": 1351.0
+    },
+    {
+      "id": 390,
+      "label": "Wild_C390",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 601.0,
+      "y_px": 1345.0
+    },
+    {
+      "id": 391,
+      "label": "Wild_C391",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 594.0,
+      "y_px": 1325.0
+    },
+    {
+      "id": 392,
+      "label": "Buggys_Beachhead_C392",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 981.0,
+      "y_px": 807.0
+    },
+    {
+      "id": 393,
+      "label": "Buggys_Beachhead_C393",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 977.0,
+      "y_px": 821.0
+    },
+    {
+      "id": 394,
+      "label": "Buggys_Beachhead_C394",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1030.0,
+      "y_px": 790.0
+    },
+    {
+      "id": 395,
+      "label": "Buggys_Beachhead_C395",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1042.0,
+      "y_px": 843.0
+    },
+    {
+      "id": 396,
+      "label": "Busy_Bay_C396",
+      "poi": "Busy Bay",
+      "type": "chest",
+      "x_px": 1435.0,
+      "y_px": 1453.0
+    },
+    {
+      "id": 397,
+      "label": "Busy_Bay_C397",
+      "poi": "Busy Bay",
+      "type": "chest",
+      "x_px": 1426.0,
+      "y_px": 1453.0
+    },
+    {
+      "id": 398,
+      "label": "Busy_Bay_C398",
+      "poi": "Busy Bay",
+      "type": "chest",
+      "x_px": 1426.0,
+      "y_px": 1453.0
+    },
+    {
+      "id": 399,
+      "label": "Busy_Bay_C399",
+      "poi": "Busy Bay",
+      "type": "chest",
+      "x_px": 1426.0,
+      "y_px": 1453.0
+    },
+    {
+      "id": 400,
+      "label": "Busy_Bay_C400",
+      "poi": "Busy Bay",
+      "type": "chest",
+      "x_px": 1434.0,
+      "y_px": 1455.0
+    },
+    {
+      "id": 401,
+      "label": "Baratie_C401",
+      "poi": "Baratie",
+      "type": "chest",
+      "x_px": 1419.0,
+      "y_px": 1456.0
+    },
+    {
+      "id": 402,
+      "label": "Wild_C402",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 999.0,
+      "y_px": 1270.0
+    },
+    {
+      "id": 403,
+      "label": "Wild_C403",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1000.0,
+      "y_px": 1201.0
+    },
+    {
+      "id": 404,
+      "label": "Wild_C404",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 980.0,
+      "y_px": 1200.0
+    },
+    {
+      "id": 405,
+      "label": "The__Rocky_C405",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1352.0,
+      "y_px": 1254.0
+    },
+    {
+      "id": 406,
+      "label": "Wild_C406",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1335.0,
+      "y_px": 1255.0
+    },
+    {
+      "id": 407,
+      "label": "Rubber_Resort_C407",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 768.0,
+      "y_px": 721.0
+    },
+    {
+      "id": 408,
+      "label": "Wild_C408",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 604.0,
+      "y_px": 798.0
+    },
+    {
+      "id": 409,
+      "label": "Wild_C409",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 612.0,
+      "y_px": 782.0
+    },
+    {
+      "id": 410,
+      "label": "Wild_C410",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 980.0,
+      "y_px": 925.0
+    },
+    {
+      "id": 411,
+      "label": "Buggys_Beachhead_C411",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1015.0,
+      "y_px": 850.0
+    },
+    {
+      "id": 412,
+      "label": "Buggys_Beachhead_C412",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1022.0,
+      "y_px": 860.0
+    },
+    {
+      "id": 413,
+      "label": "Buggys_Beachhead_C413",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1035.0,
+      "y_px": 883.0
+    },
+    {
+      "id": 414,
+      "label": "Buggys_Beachhead_C414",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1048.0,
+      "y_px": 882.0
+    },
+    {
+      "id": 415,
+      "label": "Buggys_Beachhead_C415",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 984.0,
+      "y_px": 863.0
+    },
+    {
+      "id": 416,
+      "label": "Buggys_Beachhead_C416",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1040.0,
+      "y_px": 910.0
+    },
+    {
+      "id": 417,
+      "label": "Buggys_Beachhead_C417",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1046.0,
+      "y_px": 870.0
+    },
+    {
+      "id": 418,
+      "label": "Buggys_Beachhead_C418",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 992.0,
+      "y_px": 882.0
+    },
+    {
+      "id": 419,
+      "label": "Buggys_Beachhead_C419",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1038.0,
+      "y_px": 867.0
+    },
+    {
+      "id": 420,
+      "label": "Buggys_Beachhead_C420",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1042.0,
+      "y_px": 867.0
+    },
+    {
+      "id": 421,
+      "label": "Buggys_Beachhead_C421",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1019.0,
+      "y_px": 871.0
+    },
+    {
+      "id": 422,
+      "label": "Buggys_Beachhead_C422",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 993.0,
+      "y_px": 890.0
+    },
+    {
+      "id": 423,
+      "label": "Buggys_Beachhead_C423",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1003.0,
+      "y_px": 880.0
+    },
+    {
+      "id": 424,
+      "label": "Buggys_Beachhead_C424",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1006.0,
+      "y_px": 889.0
+    },
+    {
+      "id": 425,
+      "label": "Buggys_Beachhead_C425",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1038.0,
+      "y_px": 871.0
+    },
+    {
+      "id": 426,
+      "label": "Buggys_Beachhead_C426",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1044.0,
+      "y_px": 859.0
+    },
+    {
+      "id": 427,
+      "label": "Buggys_Beachhead_C427",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1039.0,
+      "y_px": 886.0
+    },
+    {
+      "id": 428,
+      "label": "Buggys_Beachhead_C428",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1046.0,
+      "y_px": 873.0
+    },
+    {
+      "id": 429,
+      "label": "Buggys_Beachhead_C429",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1046.0,
+      "y_px": 859.0
+    },
+    {
+      "id": 430,
+      "label": "Buggys_Beachhead_C430",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1042.0,
+      "y_px": 917.0
+    },
+    {
+      "id": 431,
+      "label": "Buggys_Beachhead_C431",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1041.0,
+      "y_px": 893.0
+    },
+    {
+      "id": 432,
+      "label": "Buggys_Beachhead_C432",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1039.0,
+      "y_px": 862.0
+    },
+    {
+      "id": 433,
+      "label": "Buggys_Beachhead_C433",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1046.0,
+      "y_px": 884.0
+    },
+    {
+      "id": 434,
+      "label": "Buggys_Beachhead_C434",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1045.0,
+      "y_px": 850.0
+    },
+    {
+      "id": 435,
+      "label": "Buggys_Beachhead_C435",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1021.0,
+      "y_px": 864.0
+    },
+    {
+      "id": 436,
+      "label": "Buggys_Beachhead_C436",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 989.0,
+      "y_px": 875.0
+    },
+    {
+      "id": 437,
+      "label": "Buggys_Beachhead_C437",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 991.0,
+      "y_px": 901.0
+    },
+    {
+      "id": 438,
+      "label": "Buggys_Beachhead_C438",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 997.0,
+      "y_px": 857.0
+    },
+    {
+      "id": 439,
+      "label": "The__Rocky_C439",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1401.0,
+      "y_px": 1198.0
+    },
+    {
+      "id": 440,
+      "label": "The__Rocky_C440",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1401.0,
+      "y_px": 1234.0
+    },
+    {
+      "id": 441,
+      "label": "The__Rocky_C441",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1401.0,
+      "y_px": 1253.0
+    },
+    {
+      "id": 442,
+      "label": "Wild_C442",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1508.0,
+      "y_px": 789.0
+    },
+    {
+      "id": 443,
+      "label": "Wild_C443",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1252.0,
+      "y_px": 1620.0
+    },
+    {
+      "id": 444,
+      "label": "Wild_C444",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1293.0,
+      "y_px": 1634.0
+    },
+    {
+      "id": 445,
+      "label": "Wild_C445",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1278.0,
+      "y_px": 1590.0
+    },
+    {
+      "id": 446,
+      "label": "Wild_C446",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1460.0,
+      "y_px": 993.0
+    },
+    {
+      "id": 447,
+      "label": "Wild_C447",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1460.0,
+      "y_px": 995.0
+    },
+    {
+      "id": 448,
+      "label": "Wild_C448",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1484.0,
+      "y_px": 997.0
+    },
+    {
+      "id": 449,
+      "label": "Wild_C449",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1466.0,
+      "y_px": 992.0
+    },
+    {
+      "id": 450,
+      "label": "Wild_C450",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1482.0,
+      "y_px": 998.0
+    },
+    {
+      "id": 451,
+      "label": "Wild_C451",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1477.0,
+      "y_px": 997.0
+    },
+    {
+      "id": 452,
+      "label": "Wild_C452",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1452.0,
+      "y_px": 997.0
+    },
+    {
+      "id": 453,
+      "label": "Wild_C453",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1482.0,
+      "y_px": 991.0
+    },
+    {
+      "id": 454,
+      "label": "Wild_C454",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1483.0,
+      "y_px": 989.0
+    },
+    {
+      "id": 455,
+      "label": "Wild_C455",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1449.0,
+      "y_px": 993.0
+    },
+    {
+      "id": 456,
+      "label": "Wild_C456",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1482.0,
+      "y_px": 991.0
+    },
+    {
+      "id": 457,
+      "label": "Wild_C457",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1451.0,
+      "y_px": 997.0
+    },
+    {
+      "id": 458,
+      "label": "Wild_C458",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1176.0,
+      "y_px": 733.0
+    },
+    {
+      "id": 459,
+      "label": "Wild_C459",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1456.0,
+      "y_px": 1017.0
+    },
+    {
+      "id": 460,
+      "label": "Wild_C460",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1165.0,
+      "y_px": 758.0
+    },
+    {
+      "id": 461,
+      "label": "Wild_C461",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1470.0,
+      "y_px": 983.0
+    },
+    {
+      "id": 462,
+      "label": "Wild_C462",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1166.0,
+      "y_px": 744.0
+    },
+    {
+      "id": 463,
+      "label": "Wild_C463",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1461.0,
+      "y_px": 1003.0
+    },
+    {
+      "id": 464,
+      "label": "Wild_C464",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1165.0,
+      "y_px": 756.0
+    },
+    {
+      "id": 465,
+      "label": "Wild_C465",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1156.0,
+      "y_px": 735.0
+    },
+    {
+      "id": 466,
+      "label": "Wild_C466",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1159.0,
+      "y_px": 738.0
+    },
+    {
+      "id": 467,
+      "label": "Wild_C467",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1301.0,
+      "y_px": 705.0
+    },
+    {
+      "id": 468,
+      "label": "Wild_C468",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 662.0,
+      "y_px": 759.0
+    },
+    {
+      "id": 469,
+      "label": "Wild_C469",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 662.0,
+      "y_px": 733.0
+    },
+    {
+      "id": 470,
+      "label": "Wild_C470",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 679.0,
+      "y_px": 743.0
+    },
+    {
+      "id": 471,
+      "label": "Wild_C471",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 660.0,
+      "y_px": 746.0
+    },
+    {
+      "id": 472,
+      "label": "Buggys_Beachhead_C472",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1046.0,
+      "y_px": 824.0
+    },
+    {
+      "id": 473,
+      "label": "Buggys_Beachhead_C473",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1046.0,
+      "y_px": 843.0
+    },
+    {
+      "id": 474,
+      "label": "Buggys_Beachhead_C474",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1039.0,
+      "y_px": 836.0
+    },
+    {
+      "id": 475,
+      "label": "Buggys_Beachhead_C475",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1046.0,
+      "y_px": 838.0
+    },
+    {
+      "id": 476,
+      "label": "Buggys_Beachhead_C476",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1039.0,
+      "y_px": 838.0
+    },
+    {
+      "id": 477,
+      "label": "Buggys_Beachhead_C477",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1045.0,
+      "y_px": 835.0
+    },
+    {
+      "id": 478,
+      "label": "Buggys_Beachhead_C478",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1042.0,
+      "y_px": 845.0
+    },
+    {
+      "id": 479,
+      "label": "Buggys_Beachhead_C479",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1046.0,
+      "y_px": 842.0
+    },
+    {
+      "id": 480,
+      "label": "Buggys_Beachhead_C480",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1038.0,
+      "y_px": 842.0
+    },
+    {
+      "id": 481,
+      "label": "Buggys_Beachhead_C481",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1042.0,
+      "y_px": 816.0
+    },
+    {
+      "id": 482,
+      "label": "Buggys_Beachhead_C482",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1040.0,
+      "y_px": 827.0
+    },
+    {
+      "id": 483,
+      "label": "Buggys_Beachhead_C483",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1031.0,
+      "y_px": 846.0
+    },
+    {
+      "id": 484,
+      "label": "Buggys_Beachhead_C484",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1043.0,
+      "y_px": 834.0
+    },
+    {
+      "id": 485,
+      "label": "Buggys_Beachhead_C485",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1043.0,
+      "y_px": 817.0
+    },
+    {
+      "id": 486,
+      "label": "Buggys_Beachhead_C486",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1034.0,
+      "y_px": 835.0
+    },
+    {
+      "id": 487,
+      "label": "Buggys_Beachhead_C487",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1039.0,
+      "y_px": 824.0
+    },
+    {
+      "id": 488,
+      "label": "Wild_C488",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1414.0,
+      "y_px": 670.0
+    },
+    {
+      "id": 489,
+      "label": "Wild_C489",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1258.0,
+      "y_px": 1614.0
+    },
+    {
+      "id": 490,
+      "label": "Wild_C490",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1396.0,
+      "y_px": 1018.0
+    },
+    {
+      "id": 491,
+      "label": "Wild_C491",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1319.0,
+      "y_px": 1015.0
+    },
+    {
+      "id": 492,
+      "label": "Wild_C492",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1050.0,
+      "y_px": 1181.0
+    },
+    {
+      "id": 493,
+      "label": "Wild_C493",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 998.0,
+      "y_px": 1154.0
+    },
+    {
+      "id": 494,
+      "label": "Wild_R494",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 1050.0,
+      "y_px": 1181.0
+    },
+    {
+      "id": 495,
+      "label": "Wild_R495",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 1047.0,
+      "y_px": 1183.0
+    },
+    {
+      "id": 496,
+      "label": "Wild_R496",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 1050.0,
+      "y_px": 1183.0
+    },
+    {
+      "id": 497,
+      "label": "Wild_R497",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 1046.0,
+      "y_px": 1180.0
+    },
+    {
+      "id": 498,
+      "label": "Wild_C498",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1182.0,
+      "y_px": 751.0
+    },
+    {
+      "id": 499,
+      "label": "Wild_C499",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1324.0,
+      "y_px": 683.0
+    },
+    {
+      "id": 500,
+      "label": "Wild_C500",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1370.0,
+      "y_px": 687.0
+    },
+    {
+      "id": 501,
+      "label": "Wild_C501",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1369.0,
+      "y_px": 681.0
+    },
+    {
+      "id": 502,
+      "label": "Namis_Tangerine_Grove_B502",
+      "poi": "Nami's Tangerine Grove",
+      "type": "buried_chest",
+      "x_px": 719.0,
+      "y_px": 1573.0
+    },
+    {
+      "id": 503,
+      "label": "Wild_C503",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1252.0,
+      "y_px": 1201.0
+    },
+    {
+      "id": 504,
+      "label": "Wild_C504",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1261.0,
+      "y_px": 1217.0
+    },
+    {
+      "id": 505,
+      "label": "Wild_C505",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1275.0,
+      "y_px": 1237.0
+    },
+    {
+      "id": 506,
+      "label": "Wild_C506",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1023.0,
+      "y_px": 1574.0
+    },
+    {
+      "id": 507,
+      "label": "Wild_C507",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1010.0,
+      "y_px": 1565.0
+    },
+    {
+      "id": 508,
+      "label": "Wild_C508",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1012.0,
+      "y_px": 1575.0
+    },
+    {
+      "id": 509,
+      "label": "Wild_C509",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1015.0,
+      "y_px": 1562.0
+    },
+    {
+      "id": 510,
+      "label": "Wild_C510",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 974.0,
+      "y_px": 1026.0
+    },
+    {
+      "id": 511,
+      "label": "Wild_C511",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 964.0,
+      "y_px": 1021.0
+    },
+    {
+      "id": 512,
+      "label": "Wild_C512",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 970.0,
+      "y_px": 1024.0
+    },
+    {
+      "id": 513,
+      "label": "Giants_Battlefield_C513",
+      "poi": "Giant's Battlefield",
+      "type": "chest",
+      "x_px": 937.0,
+      "y_px": 1251.0
+    },
+    {
+      "id": 514,
+      "label": "Giants_Battlefield_C514",
+      "poi": "Giant's Battlefield",
+      "type": "chest",
+      "x_px": 937.0,
+      "y_px": 1263.0
+    },
+    {
+      "id": 515,
+      "label": "Wild_C515",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1369.0,
+      "y_px": 684.0
+    },
+    {
+      "id": 516,
+      "label": "Wild_C516",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1389.0,
+      "y_px": 674.0
+    },
+    {
+      "id": 517,
+      "label": "Wild_C517",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 991.0,
+      "y_px": 1132.0
+    },
+    {
+      "id": 518,
+      "label": "Wild_C518",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1031.0,
+      "y_px": 1133.0
+    },
+    {
+      "id": 519,
+      "label": "Wild_C519",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 990.0,
+      "y_px": 1192.0
+    },
+    {
+      "id": 520,
+      "label": "Wild_C520",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1038.0,
+      "y_px": 1181.0
+    },
+    {
+      "id": 521,
+      "label": "Wild_C521",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1045.0,
+      "y_px": 1190.0
+    },
+    {
+      "id": 522,
+      "label": "Plunder_Port_C522",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1181.0,
+      "y_px": 1653.0
+    },
+    {
+      "id": 523,
+      "label": "Plunder_Port_C523",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1177.0,
+      "y_px": 1657.0
+    },
+    {
+      "id": 524,
+      "label": "Plunder_Port_C524",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1175.0,
+      "y_px": 1677.0
+    },
+    {
+      "id": 525,
+      "label": "Plunder_Port_C525",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1176.0,
+      "y_px": 1658.0
+    },
+    {
+      "id": 526,
+      "label": "Plunder_Port_C526",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1176.0,
+      "y_px": 1677.0
+    },
+    {
+      "id": 527,
+      "label": "Plunder_Port_C527",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1179.0,
+      "y_px": 1685.0
+    },
+    {
+      "id": 528,
+      "label": "Plunder_Port_C528",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1183.0,
+      "y_px": 1678.0
+    },
+    {
+      "id": 529,
+      "label": "Plunder_Port_C529",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1178.0,
+      "y_px": 1664.0
+    },
+    {
+      "id": 530,
+      "label": "Plunder_Port_C530",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1180.0,
+      "y_px": 1651.0
+    },
+    {
+      "id": 531,
+      "label": "Plunder_Port_C531",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1153.0,
+      "y_px": 1663.0
+    },
+    {
+      "id": 532,
+      "label": "Plunder_Port_C532",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1151.0,
+      "y_px": 1652.0
+    },
+    {
+      "id": 533,
+      "label": "Plunder_Port_C533",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1158.0,
+      "y_px": 1653.0
+    },
+    {
+      "id": 534,
+      "label": "Plunder_Port_C534",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1151.0,
+      "y_px": 1672.0
+    },
+    {
+      "id": 535,
+      "label": "Plunder_Port_C535",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1157.0,
+      "y_px": 1675.0
+    },
+    {
+      "id": 536,
+      "label": "Plunder_Port_C536",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1150.0,
+      "y_px": 1675.0
+    },
+    {
+      "id": 537,
+      "label": "Plunder_Port_C537",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1155.0,
+      "y_px": 1665.0
+    },
+    {
+      "id": 538,
+      "label": "Plunder_Port_C538",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1164.0,
+      "y_px": 1653.0
+    },
+    {
+      "id": 539,
+      "label": "Plunder_Port_C539",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1155.0,
+      "y_px": 1659.0
+    },
+    {
+      "id": 540,
+      "label": "Plunder_Port_C540",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1183.0,
+      "y_px": 1675.0
+    },
+    {
+      "id": 541,
+      "label": "Plunder_Port_C541",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1175.0,
+      "y_px": 1668.0
+    },
+    {
+      "id": 542,
+      "label": "Plunder_Port_C542",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1159.0,
+      "y_px": 1672.0
+    },
+    {
+      "id": 543,
+      "label": "Plunder_Port_C543",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1142.0,
+      "y_px": 1648.0
+    },
+    {
+      "id": 544,
+      "label": "Plunder_Port_C544",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1188.0,
+      "y_px": 1646.0
+    },
+    {
+      "id": 545,
+      "label": "Giants_Battlefield_C545",
+      "poi": "Giant's Battlefield",
+      "type": "chest",
+      "x_px": 948.0,
+      "y_px": 1256.0
+    },
+    {
+      "id": 546,
+      "label": "Wild_C546",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1285.0,
+      "y_px": 1242.0
+    },
+    {
+      "id": 547,
+      "label": "Wild_C547",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1275.0,
+      "y_px": 1236.0
+    },
+    {
+      "id": 548,
+      "label": "Wild_C548",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1285.0,
+      "y_px": 1253.0
+    },
+    {
+      "id": 549,
+      "label": "Namis_Tangerine_Grove_C549",
+      "poi": "Nami's Tangerine Grove",
+      "type": "chest",
+      "x_px": 714.0,
+      "y_px": 1589.0
+    },
+    {
+      "id": 550,
+      "label": "Namis_Tangerine_Grove_C550",
+      "poi": "Nami's Tangerine Grove",
+      "type": "chest",
+      "x_px": 715.0,
+      "y_px": 1595.0
+    },
+    {
+      "id": 551,
+      "label": "Namis_Tangerine_Grove_C551",
+      "poi": "Nami's Tangerine Grove",
+      "type": "chest",
+      "x_px": 724.0,
+      "y_px": 1577.0
+    },
+    {
+      "id": 552,
+      "label": "Namis_Tangerine_Grove_C552",
+      "poi": "Nami's Tangerine Grove",
+      "type": "chest",
+      "x_px": 716.0,
+      "y_px": 1565.0
+    },
+    {
+      "id": 553,
+      "label": "Namis_Tangerine_Grove_C553",
+      "poi": "Nami's Tangerine Grove",
+      "type": "chest",
+      "x_px": 709.0,
+      "y_px": 1580.0
+    },
+    {
+      "id": 554,
+      "label": "Namis_Tangerine_Grove_C554",
+      "poi": "Nami's Tangerine Grove",
+      "type": "chest",
+      "x_px": 711.0,
+      "y_px": 1602.0
+    },
+    {
+      "id": 555,
+      "label": "Rubber_Resort_C555",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 831.0,
+      "y_px": 779.0
+    },
+    {
+      "id": 556,
+      "label": "Wild_C556",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 837.0,
+      "y_px": 784.0
+    },
+    {
+      "id": 557,
+      "label": "Rubber_Resort_B557",
+      "poi": "Rubber Resort",
+      "type": "buried_chest",
+      "x_px": 828.0,
+      "y_px": 778.0
+    },
+    {
+      "id": 558,
+      "label": "Wild_C558",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1509.0,
+      "y_px": 1538.0
+    },
+    {
+      "id": 559,
+      "label": "Wild_C559",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1509.0,
+      "y_px": 1539.0
+    },
+    {
+      "id": 560,
+      "label": "Wild_C560",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1520.0,
+      "y_px": 1514.0
+    },
+    {
+      "id": 561,
+      "label": "Wild_C561",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1522.0,
+      "y_px": 1513.0
+    },
+    {
+      "id": 562,
+      "label": "Wild_C562",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 632.0,
+      "y_px": 949.0
+    },
+    {
+      "id": 563,
+      "label": "Wild_C563",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 902.0,
+      "y_px": 1317.0
+    },
+    {
+      "id": 564,
+      "label": "Wild_C564",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 673.0,
+      "y_px": 1313.0
+    },
+    {
+      "id": 565,
+      "label": "Wild_C565",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 636.0,
+      "y_px": 1359.0
+    },
+    {
+      "id": 566,
+      "label": "Wild_C566",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 912.0,
+      "y_px": 833.0
+    },
+    {
+      "id": 567,
+      "label": "Wild_C567",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 898.0,
+      "y_px": 808.0
+    },
+    {
+      "id": 568,
+      "label": "Wild_C568",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 701.0,
+      "y_px": 1290.0
+    },
+    {
+      "id": 569,
+      "label": "Wild_C569",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 598.0,
+      "y_px": 1246.0
+    },
+    {
+      "id": 570,
+      "label": "Wild_C570",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 603.0,
+      "y_px": 1244.0
+    },
+    {
+      "id": 571,
+      "label": "Wild_C571",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 605.0,
+      "y_px": 1249.0
+    },
+    {
+      "id": 572,
+      "label": "Wild_C572",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 556.0,
+      "y_px": 1214.0
+    },
+    {
+      "id": 573,
+      "label": "Wild_C573",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 952.0,
+      "y_px": 1185.0
+    },
+    {
+      "id": 574,
+      "label": "Wild_C574",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 952.0,
+      "y_px": 1184.0
+    },
+    {
+      "id": 575,
+      "label": "Wild_C575",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 956.0,
+      "y_px": 1186.0
+    },
+    {
+      "id": 576,
+      "label": "Wild_C576",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 960.0,
+      "y_px": 1190.0
+    },
+    {
+      "id": 577,
+      "label": "Wild_C577",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 889.0,
+      "y_px": 1186.0
+    },
+    {
+      "id": 578,
+      "label": "Wild_C578",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1574.0,
+      "y_px": 1502.0
+    },
+    {
+      "id": 579,
+      "label": "Wild_C579",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1564.0,
+      "y_px": 1493.0
+    },
+    {
+      "id": 580,
+      "label": "Wild_C580",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1528.0,
+      "y_px": 1490.0
+    },
+    {
+      "id": 581,
+      "label": "Wild_C581",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1525.0,
+      "y_px": 1492.0
+    },
+    {
+      "id": 582,
+      "label": "Wild_C582",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1563.0,
+      "y_px": 1508.0
+    },
+    {
+      "id": 583,
+      "label": "Wild_C583",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1569.0,
+      "y_px": 1498.0
+    },
+    {
+      "id": 584,
+      "label": "Wild_C584",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1543.0,
+      "y_px": 1497.0
+    },
+    {
+      "id": 585,
+      "label": "Wild_C585",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1517.0,
+      "y_px": 1534.0
+    },
+    {
+      "id": 586,
+      "label": "Wild_C586",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1554.0,
+      "y_px": 1538.0
+    },
+    {
+      "id": 587,
+      "label": "Wild_C587",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1551.0,
+      "y_px": 1502.0
+    },
+    {
+      "id": 588,
+      "label": "Cursed_Cavern_C588",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1183.0,
+      "y_px": 1098.0
+    },
+    {
+      "id": 589,
+      "label": "Wild_C589",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1148.0,
+      "y_px": 1027.0
+    },
+    {
+      "id": 590,
+      "label": "Wild_B590",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1209.0,
+      "y_px": 1056.0
+    },
+    {
+      "id": 591,
+      "label": "Wild_B591",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1210.0,
+      "y_px": 1057.0
+    },
+    {
+      "id": 592,
+      "label": "Wild_B592",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1211.0,
+      "y_px": 1056.0
+    },
+    {
+      "id": 593,
+      "label": "Wild_B593",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1210.0,
+      "y_px": 1055.0
+    },
+    {
+      "id": 594,
+      "label": "Wild_C594",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1280.0,
+      "y_px": 824.0
+    },
+    {
+      "id": 595,
+      "label": "Wild_C595",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1301.0,
+      "y_px": 809.0
+    },
+    {
+      "id": 596,
+      "label": "Wild_C596",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1216.0,
+      "y_px": 1318.0
+    },
+    {
+      "id": 597,
+      "label": "Wild_C597",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1211.0,
+      "y_px": 1324.0
+    },
+    {
+      "id": 598,
+      "label": "Wild_C598",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1295.0,
+      "y_px": 817.0
+    },
+    {
+      "id": 599,
+      "label": "Wild_C599",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1312.0,
+      "y_px": 829.0
+    },
+    {
+      "id": 600,
+      "label": "Wild_C600",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1313.0,
+      "y_px": 824.0
+    },
+    {
+      "id": 601,
+      "label": "Wild_C601",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1281.0,
+      "y_px": 829.0
+    },
+    {
+      "id": 602,
+      "label": "Wild_C602",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1295.0,
+      "y_px": 837.0
+    },
+    {
+      "id": 603,
+      "label": "Wild_C603",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1283.0,
+      "y_px": 803.0
+    },
+    {
+      "id": 604,
+      "label": "Wild_C604",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1292.0,
+      "y_px": 802.0
+    },
+    {
+      "id": 605,
+      "label": "Wild_C605",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1286.0,
+      "y_px": 828.0
+    },
+    {
+      "id": 606,
+      "label": "Wild_C606",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1290.0,
+      "y_px": 797.0
+    },
+    {
+      "id": 607,
+      "label": "Wild_C607",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1300.0,
+      "y_px": 836.0
+    },
+    {
+      "id": 608,
+      "label": "Wild_C608",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1302.0,
+      "y_px": 788.0
+    },
+    {
+      "id": 609,
+      "label": "Wild_C609",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1312.0,
+      "y_px": 835.0
+    },
+    {
+      "id": 610,
+      "label": "Wild_C610",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1279.0,
+      "y_px": 808.0
+    },
+    {
+      "id": 611,
+      "label": "Wild_C611",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1273.0,
+      "y_px": 839.0
+    },
+    {
+      "id": 612,
+      "label": "Wild_C612",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1295.0,
+      "y_px": 797.0
+    },
+    {
+      "id": 613,
+      "label": "Wild_C613",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1306.0,
+      "y_px": 800.0
+    },
+    {
+      "id": 614,
+      "label": "Wild_C614",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1301.0,
+      "y_px": 821.0
+    },
+    {
+      "id": 615,
+      "label": "Wild_C615",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1276.0,
+      "y_px": 829.0
+    },
+    {
+      "id": 616,
+      "label": "Wild_C616",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1302.0,
+      "y_px": 825.0
+    },
+    {
+      "id": 617,
+      "label": "Wild_C617",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1292.0,
+      "y_px": 817.0
+    },
+    {
+      "id": 618,
+      "label": "Wild_C618",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1305.0,
+      "y_px": 804.0
+    },
+    {
+      "id": 619,
+      "label": "Wild_C619",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1307.0,
+      "y_px": 816.0
+    },
+    {
+      "id": 620,
+      "label": "Wild_C620",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 640.0,
+      "y_px": 784.0
+    },
+    {
+      "id": 621,
+      "label": "Wild_C621",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 626.0,
+      "y_px": 784.0
+    },
+    {
+      "id": 622,
+      "label": "Wild_C622",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 634.0,
+      "y_px": 784.0
+    },
+    {
+      "id": 623,
+      "label": "Wild_C623",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 624.0,
+      "y_px": 798.0
+    },
+    {
+      "id": 624,
+      "label": "Wild_C624",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 633.0,
+      "y_px": 782.0
+    },
+    {
+      "id": 625,
+      "label": "Wild_C625",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 964.0,
+      "y_px": 1506.0
+    },
+    {
+      "id": 626,
+      "label": "Wild_C626",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 959.0,
+      "y_px": 1532.0
+    },
+    {
+      "id": 627,
+      "label": "Wild_C627",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 722.0,
+      "y_px": 1223.0
+    },
+    {
+      "id": 628,
+      "label": "Wild_C628",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 752.0,
+      "y_px": 1246.0
+    },
+    {
+      "id": 629,
+      "label": "Wild_C629",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 788.0,
+      "y_px": 1197.0
+    },
+    {
+      "id": 630,
+      "label": "Wild_C630",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 754.0,
+      "y_px": 1267.0
+    },
+    {
+      "id": 631,
+      "label": "Wild_C631",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1371.0,
+      "y_px": 643.0
+    },
+    {
+      "id": 632,
+      "label": "Wild_C632",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 768.0,
+      "y_px": 1251.0
+    },
+    {
+      "id": 633,
+      "label": "Wild_C633",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1370.0,
+      "y_px": 667.0
+    },
+    {
+      "id": 634,
+      "label": "Wild_C634",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1461.0,
+      "y_px": 998.0
+    },
+    {
+      "id": 635,
+      "label": "Wild_C635",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1452.0,
+      "y_px": 993.0
+    },
+    {
+      "id": 636,
+      "label": "Wild_C636",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1458.0,
+      "y_px": 988.0
+    },
+    {
+      "id": 637,
+      "label": "Wild_C637",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1459.0,
+      "y_px": 1000.0
+    },
+    {
+      "id": 638,
+      "label": "Wild_C638",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1464.0,
+      "y_px": 988.0
+    },
+    {
+      "id": 639,
+      "label": "Wild_C639",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 893.0,
+      "y_px": 1185.0
+    },
+    {
+      "id": 640,
+      "label": "Wild_C640",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 929.0,
+      "y_px": 1156.0
+    },
+    {
+      "id": 641,
+      "label": "Wild_C641",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 887.0,
+      "y_px": 1194.0
+    },
+    {
+      "id": 642,
+      "label": "Wild_C642",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 890.0,
+      "y_px": 1190.0
+    },
+    {
+      "id": 643,
+      "label": "Wild_C643",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1267.0,
+      "y_px": 1508.0
+    },
+    {
+      "id": 644,
+      "label": "Wild_C644",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1265.0,
+      "y_px": 1508.0
+    },
+    {
+      "id": 645,
+      "label": "Wild_C645",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 804.0,
+      "y_px": 1254.0
+    },
+    {
+      "id": 646,
+      "label": "Wild_C646",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 838.0,
+      "y_px": 1262.0
+    },
+    {
+      "id": 647,
+      "label": "Wild_C647",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 877.0,
+      "y_px": 1197.0
+    },
+    {
+      "id": 648,
+      "label": "Wild_C648",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 832.0,
+      "y_px": 1228.0
+    },
+    {
+      "id": 649,
+      "label": "Wild_C649",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1386.0,
+      "y_px": 669.0
+    },
+    {
+      "id": 650,
+      "label": "Wild_C650",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1208.0,
+      "y_px": 831.0
+    },
+    {
+      "id": 651,
+      "label": "Wild_C651",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1180.0,
+      "y_px": 775.0
+    },
+    {
+      "id": 652,
+      "label": "Wild_C652",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1165.0,
+      "y_px": 770.0
+    },
+    {
+      "id": 653,
+      "label": "Wild_C653",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1147.0,
+      "y_px": 806.0
+    },
+    {
+      "id": 654,
+      "label": "Wild_C654",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 962.0,
+      "y_px": 981.0
+    },
+    {
+      "id": 655,
+      "label": "Wild_C655",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 966.0,
+      "y_px": 969.0
+    },
+    {
+      "id": 656,
+      "label": "Lantern_Landing_C656",
+      "poi": "Lantern Landing",
+      "type": "chest",
+      "x_px": 889.0,
+      "y_px": 988.0
+    },
+    {
+      "id": 657,
+      "label": "The_Salty_Skull_C657",
+      "poi": "The Salty Skull",
+      "type": "chest",
+      "x_px": 1211.0,
+      "y_px": 1234.0
+    },
+    {
+      "id": 658,
+      "label": "The_Salty_Skull_C658",
+      "poi": "The Salty Skull",
+      "type": "chest",
+      "x_px": 1198.0,
+      "y_px": 1216.0
+    },
+    {
+      "id": 659,
+      "label": "The_Salty_Skull_C659",
+      "poi": "The Salty Skull",
+      "type": "chest",
+      "x_px": 1192.0,
+      "y_px": 1234.0
+    },
+    {
+      "id": 660,
+      "label": "Cursed_Cavern_C660",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1160.0,
+      "y_px": 1206.0
+    },
+    {
+      "id": 661,
+      "label": "The_Salty_Skull_C661",
+      "poi": "The Salty Skull",
+      "type": "chest",
+      "x_px": 1206.0,
+      "y_px": 1215.0
+    },
+    {
+      "id": 662,
+      "label": "The_Salty_Skull_C662",
+      "poi": "The Salty Skull",
+      "type": "chest",
+      "x_px": 1198.0,
+      "y_px": 1229.0
+    },
+    {
+      "id": 663,
+      "label": "The_Salty_Skull_C663",
+      "poi": "The Salty Skull",
+      "type": "chest",
+      "x_px": 1197.0,
+      "y_px": 1276.0
+    },
+    {
+      "id": 664,
+      "label": "Wild_C664",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1114.0,
+      "y_px": 852.0
+    },
+    {
+      "id": 665,
+      "label": "Wild_C665",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1120.0,
+      "y_px": 852.0
+    },
+    {
+      "id": 666,
+      "label": "Wild_C666",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1128.0,
+      "y_px": 880.0
+    },
+    {
+      "id": 667,
+      "label": "Wild_C667",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1128.0,
+      "y_px": 886.0
+    },
+    {
+      "id": 668,
+      "label": "Wild_C668",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1128.0,
+      "y_px": 900.0
+    },
+    {
+      "id": 669,
+      "label": "Wild_R669",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 1092.0,
+      "y_px": 913.0
+    },
+    {
+      "id": 670,
+      "label": "Wild_R670",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 1090.0,
+      "y_px": 911.0
+    },
+    {
+      "id": 671,
+      "label": "Wild_R671",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 1090.0,
+      "y_px": 914.0
+    },
+    {
+      "id": 672,
+      "label": "Wild_R672",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 1092.0,
+      "y_px": 910.0
+    },
+    {
+      "id": 673,
+      "label": "Wild_C673",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1200.0,
+      "y_px": 1331.0
+    },
+    {
+      "id": 674,
+      "label": "Wild_C674",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1209.0,
+      "y_px": 1327.0
+    },
+    {
+      "id": 675,
+      "label": "Rubber_Resort_C675",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 821.0,
+      "y_px": 693.0
+    },
+    {
+      "id": 676,
+      "label": "Rubber_Resort_C676",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 830.0,
+      "y_px": 704.0
+    },
+    {
+      "id": 677,
+      "label": "Rubber_Resort_C677",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 830.0,
+      "y_px": 696.0
+    },
+    {
+      "id": 678,
+      "label": "Rubber_Resort_C678",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 807.0,
+      "y_px": 697.0
+    },
+    {
+      "id": 679,
+      "label": "Rubber_Resort_C679",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 841.0,
+      "y_px": 711.0
+    },
+    {
+      "id": 680,
+      "label": "Rubber_Resort_C680",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 811.0,
+      "y_px": 719.0
+    },
+    {
+      "id": 681,
+      "label": "Rubber_Resort_C681",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 822.0,
+      "y_px": 725.0
+    },
+    {
+      "id": 682,
+      "label": "Rubber_Resort_C682",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 812.0,
+      "y_px": 729.0
+    },
+    {
+      "id": 683,
+      "label": "Rubber_Resort_C683",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 817.0,
+      "y_px": 728.0
+    },
+    {
+      "id": 684,
+      "label": "Rubber_Resort_C684",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 826.0,
+      "y_px": 692.0
+    },
+    {
+      "id": 685,
+      "label": "Rubber_Resort_C685",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 811.0,
+      "y_px": 701.0
+    },
+    {
+      "id": 686,
+      "label": "Rubber_Resort_C686",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 839.0,
+      "y_px": 698.0
+    },
+    {
+      "id": 687,
+      "label": "Rubber_Resort_C687",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 820.0,
+      "y_px": 691.0
+    },
+    {
+      "id": 688,
+      "label": "Rubber_Resort_C688",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 811.0,
+      "y_px": 728.0
+    },
+    {
+      "id": 689,
+      "label": "Rubber_Resort_C689",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 806.0,
+      "y_px": 679.0
+    },
+    {
+      "id": 690,
+      "label": "Rubber_Resort_C690",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 819.0,
+      "y_px": 718.0
+    },
+    {
+      "id": 691,
+      "label": "Rubber_Resort_C691",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 826.0,
+      "y_px": 695.0
+    },
+    {
+      "id": 692,
+      "label": "Rubber_Resort_C692",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 797.0,
+      "y_px": 728.0
+    },
+    {
+      "id": 693,
+      "label": "Wild_C693",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1224.0,
+      "y_px": 836.0
+    },
+    {
+      "id": 694,
+      "label": "Wild_C694",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1265.0,
+      "y_px": 1509.0
+    },
+    {
+      "id": 695,
+      "label": "Wild_C695",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1265.0,
+      "y_px": 1509.0
+    },
+    {
+      "id": 696,
+      "label": "Wild_C696",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1262.0,
+      "y_px": 1518.0
+    },
+    {
+      "id": 697,
+      "label": "Wild_C697",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1270.0,
+      "y_px": 1504.0
+    },
+    {
+      "id": 698,
+      "label": "Wild_C698",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 573.0,
+      "y_px": 1367.0
+    },
+    {
+      "id": 699,
+      "label": "Wild_C699",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 759.0,
+      "y_px": 1237.0
+    },
+    {
+      "id": 700,
+      "label": "Wild_C700",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 764.0,
+      "y_px": 1238.0
+    },
+    {
+      "id": 701,
+      "label": "Wild_C701",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 759.0,
+      "y_px": 1242.0
+    },
+    {
+      "id": 702,
+      "label": "Wild_C702",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 741.0,
+      "y_px": 1197.0
+    },
+    {
+      "id": 703,
+      "label": "Wild_C703",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 647.0,
+      "y_px": 1373.0
+    },
+    {
+      "id": 704,
+      "label": "Wild_C704",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 696.0,
+      "y_px": 1377.0
+    },
+    {
+      "id": 705,
+      "label": "Wild_C705",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 684.0,
+      "y_px": 1379.0
+    },
+    {
+      "id": 706,
+      "label": "Wild_C706",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1110.0,
+      "y_px": 978.0
+    },
+    {
+      "id": 707,
+      "label": "Wild_C707",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1116.0,
+      "y_px": 943.0
+    },
+    {
+      "id": 708,
+      "label": "Wild_C708",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1108.0,
+      "y_px": 984.0
+    },
+    {
+      "id": 709,
+      "label": "Wild_B709",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1108.0,
+      "y_px": 983.0
+    },
+    {
+      "id": 710,
+      "label": "Wild_C710",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 723.0,
+      "y_px": 977.0
+    },
+    {
+      "id": 711,
+      "label": "Wild_C711",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 734.0,
+      "y_px": 957.0
+    },
+    {
+      "id": 712,
+      "label": "Wild_C712",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 725.0,
+      "y_px": 957.0
+    },
+    {
+      "id": 713,
+      "label": "Wild_R713",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 645.0,
+      "y_px": 1420.0
+    },
+    {
+      "id": 714,
+      "label": "Wild_R714",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 643.0,
+      "y_px": 1417.0
+    },
+    {
+      "id": 715,
+      "label": "Wild_R715",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 643.0,
+      "y_px": 1420.0
+    },
+    {
+      "id": 716,
+      "label": "Wild_R716",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 645.0,
+      "y_px": 1416.0
+    },
+    {
+      "id": 717,
+      "label": "Wild_C717",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 826.0,
+      "y_px": 609.0
+    },
+    {
+      "id": 718,
+      "label": "The_Salty_Skull_C718",
+      "poi": "The Salty Skull",
+      "type": "chest",
+      "x_px": 1207.0,
+      "y_px": 1212.0
+    },
+    {
+      "id": 719,
+      "label": "Cursed_Cavern_C719",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1227.0,
+      "y_px": 1196.0
+    },
+    {
+      "id": 720,
+      "label": "The_Salty_Skull_C720",
+      "poi": "The Salty Skull",
+      "type": "chest",
+      "x_px": 1218.0,
+      "y_px": 1210.0
+    },
+    {
+      "id": 721,
+      "label": "The_Salty_Skull_C721",
+      "poi": "The Salty Skull",
+      "type": "chest",
+      "x_px": 1191.0,
+      "y_px": 1200.0
+    },
+    {
+      "id": 722,
+      "label": "The_Salty_Skull_C722",
+      "poi": "The Salty Skull",
+      "type": "chest",
+      "x_px": 1201.0,
+      "y_px": 1206.0
+    },
+    {
+      "id": 723,
+      "label": "The_Salty_Skull_C723",
+      "poi": "The Salty Skull",
+      "type": "chest",
+      "x_px": 1197.0,
+      "y_px": 1224.0
+    },
+    {
+      "id": 724,
+      "label": "The_Salty_Skull_C724",
+      "poi": "The Salty Skull",
+      "type": "chest",
+      "x_px": 1212.0,
+      "y_px": 1198.0
+    },
+    {
+      "id": 725,
+      "label": "Wild_C725",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1286.0,
+      "y_px": 1090.0
+    },
+    {
+      "id": 726,
+      "label": "Wild_C726",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 713.0,
+      "y_px": 704.0
+    },
+    {
+      "id": 727,
+      "label": "Wild_C727",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 732.0,
+      "y_px": 681.0
+    },
+    {
+      "id": 728,
+      "label": "Rubber_Resort_C728",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 741.0,
+      "y_px": 682.0
+    },
+    {
+      "id": 729,
+      "label": "Wild_C729",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 747.0,
+      "y_px": 988.0
+    },
+    {
+      "id": 730,
+      "label": "Wild_C730",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 729.0,
+      "y_px": 957.0
+    },
+    {
+      "id": 731,
+      "label": "Wild_C731",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 733.0,
+      "y_px": 1005.0
+    },
+    {
+      "id": 732,
+      "label": "Wild_C732",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1470.0,
+      "y_px": 805.0
+    },
+    {
+      "id": 733,
+      "label": "Wild_C733",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1473.0,
+      "y_px": 777.0
+    },
+    {
+      "id": 734,
+      "label": "Wild_C734",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1468.0,
+      "y_px": 776.0
+    },
+    {
+      "id": 735,
+      "label": "Wild_C735",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1450.0,
+      "y_px": 836.0
+    },
+    {
+      "id": 736,
+      "label": "Wild_C736",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1438.0,
+      "y_px": 844.0
+    },
+    {
+      "id": 737,
+      "label": "Buggys_Beachhead_C737",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1074.0,
+      "y_px": 846.0
+    },
+    {
+      "id": 738,
+      "label": "Wild_C738",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1128.0,
+      "y_px": 883.0
+    },
+    {
+      "id": 739,
+      "label": "Wild_C739",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1109.0,
+      "y_px": 892.0
+    },
+    {
+      "id": 740,
+      "label": "Wild_C740",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1111.0,
+      "y_px": 898.0
+    },
+    {
+      "id": 741,
+      "label": "Wild_C741",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1130.0,
+      "y_px": 861.0
+    },
+    {
+      "id": 742,
+      "label": "Wild_C742",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1114.0,
+      "y_px": 865.0
+    },
+    {
+      "id": 743,
+      "label": "Wild_C743",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1003.0,
+      "y_px": 1665.0
+    },
+    {
+      "id": 744,
+      "label": "Wild_C744",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1012.0,
+      "y_px": 1645.0
+    },
+    {
+      "id": 745,
+      "label": "Wild_C745",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1003.0,
+      "y_px": 1644.0
+    },
+    {
+      "id": 746,
+      "label": "Wild_C746",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1008.0,
+      "y_px": 1644.0
+    },
+    {
+      "id": 747,
+      "label": "Wild_C747",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1008.0,
+      "y_px": 1634.0
+    },
+    {
+      "id": 748,
+      "label": "Wild_C748",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1034.0,
+      "y_px": 1653.0
+    },
+    {
+      "id": 749,
+      "label": "Wild_C749",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1026.0,
+      "y_px": 1640.0
+    },
+    {
+      "id": 750,
+      "label": "Wild_C750",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 808.0,
+      "y_px": 625.0
+    },
+    {
+      "id": 751,
+      "label": "Wild_C751",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1528.0,
+      "y_px": 1303.0
+    },
+    {
+      "id": 752,
+      "label": "Wild_C752",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1512.0,
+      "y_px": 1314.0
+    },
+    {
+      "id": 753,
+      "label": "Wild_C753",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 713.0,
+      "y_px": 1539.0
+    },
+    {
+      "id": 754,
+      "label": "Windmill_Village_C754",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 716.0,
+      "y_px": 1491.0
+    },
+    {
+      "id": 755,
+      "label": "Busy_Bay_R755",
+      "poi": "Busy Bay",
+      "type": "rare_chest",
+      "x_px": 1386.0,
+      "y_px": 1569.0
+    },
+    {
+      "id": 756,
+      "label": "Busy_Bay_R756",
+      "poi": "Busy Bay",
+      "type": "rare_chest",
+      "x_px": 1383.0,
+      "y_px": 1570.0
+    },
+    {
+      "id": 757,
+      "label": "Busy_Bay_R757",
+      "poi": "Busy Bay",
+      "type": "rare_chest",
+      "x_px": 1386.0,
+      "y_px": 1570.0
+    },
+    {
+      "id": 758,
+      "label": "Busy_Bay_R758",
+      "poi": "Busy Bay",
+      "type": "rare_chest",
+      "x_px": 1382.0,
+      "y_px": 1568.0
+    },
+    {
+      "id": 759,
+      "label": "Wild_C759",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 649.0,
+      "y_px": 1442.0
+    },
+    {
+      "id": 760,
+      "label": "Wild_C760",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 651.0,
+      "y_px": 1442.0
+    },
+    {
+      "id": 761,
+      "label": "Wild_C761",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 644.0,
+      "y_px": 1448.0
+    },
+    {
+      "id": 762,
+      "label": "Wild_C762",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 847.0,
+      "y_px": 1599.0
+    },
+    {
+      "id": 763,
+      "label": "Wild_C763",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1286.0,
+      "y_px": 1063.0
+    },
+    {
+      "id": 764,
+      "label": "Wild_C764",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1289.0,
+      "y_px": 1060.0
+    },
+    {
+      "id": 765,
+      "label": "Wild_C765",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1291.0,
+      "y_px": 1055.0
+    },
+    {
+      "id": 766,
+      "label": "Wild_C766",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1277.0,
+      "y_px": 1048.0
+    },
+    {
+      "id": 767,
+      "label": "Wild_C767",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1289.0,
+      "y_px": 1064.0
+    },
+    {
+      "id": 768,
+      "label": "Wild_C768",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1275.0,
+      "y_px": 1064.0
+    },
+    {
+      "id": 769,
+      "label": "Wild_C769",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1079.0,
+      "y_px": 1431.0
+    },
+    {
+      "id": 770,
+      "label": "Cursed_Cavern_C770",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1194.0,
+      "y_px": 1162.0
+    },
+    {
+      "id": 771,
+      "label": "Cursed_Cavern_C771",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1224.0,
+      "y_px": 1168.0
+    },
+    {
+      "id": 772,
+      "label": "Cursed_Cavern_C772",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1184.0,
+      "y_px": 1183.0
+    },
+    {
+      "id": 773,
+      "label": "Cursed_Cavern_C773",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1202.0,
+      "y_px": 1132.0
+    },
+    {
+      "id": 774,
+      "label": "Wild_C774",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1354.0,
+      "y_px": 1568.0
+    },
+    {
+      "id": 775,
+      "label": "Busy_Bay_C775",
+      "poi": "Busy Bay",
+      "type": "chest",
+      "x_px": 1354.0,
+      "y_px": 1564.0
+    },
+    {
+      "id": 776,
+      "label": "Wild_C776",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1461.0,
+      "y_px": 772.0
+    },
+    {
+      "id": 777,
+      "label": "Wild_C777",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1476.0,
+      "y_px": 788.0
+    },
+    {
+      "id": 778,
+      "label": "Wild_C778",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1081.0,
+      "y_px": 1063.0
+    },
+    {
+      "id": 779,
+      "label": "Wild_C779",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1081.0,
+      "y_px": 1057.0
+    },
+    {
+      "id": 780,
+      "label": "Wild_C780",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1068.0,
+      "y_px": 1101.0
+    },
+    {
+      "id": 781,
+      "label": "Wild_C781",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1131.0,
+      "y_px": 1093.0
+    },
+    {
+      "id": 782,
+      "label": "Wild_C782",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1072.0,
+      "y_px": 1033.0
+    },
+    {
+      "id": 783,
+      "label": "Wild_C783",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1090.0,
+      "y_px": 1049.0
+    },
+    {
+      "id": 784,
+      "label": "Wild_C784",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1101.0,
+      "y_px": 1032.0
+    },
+    {
+      "id": 785,
+      "label": "Wild_B785",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1559.0,
+      "y_px": 639.0
+    },
+    {
+      "id": 786,
+      "label": "Wild_B786",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1554.0,
+      "y_px": 631.0
+    },
+    {
+      "id": 787,
+      "label": "Wild_B787",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1570.0,
+      "y_px": 601.0
+    },
+    {
+      "id": 788,
+      "label": "Wild_B788",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1559.0,
+      "y_px": 606.0
+    },
+    {
+      "id": 789,
+      "label": "Wild_B789",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1554.0,
+      "y_px": 620.0
+    },
+    {
+      "id": 790,
+      "label": "Wild_B790",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1552.0,
+      "y_px": 607.0
+    },
+    {
+      "id": 791,
+      "label": "Wild_B791",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1575.0,
+      "y_px": 598.0
+    },
+    {
+      "id": 792,
+      "label": "Wild_B792",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1567.0,
+      "y_px": 650.0
+    },
+    {
+      "id": 793,
+      "label": "Wild_B793",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1556.0,
+      "y_px": 646.0
+    },
+    {
+      "id": 794,
+      "label": "Wild_C794",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1477.0,
+      "y_px": 1033.0
+    },
+    {
+      "id": 795,
+      "label": "Wild_C795",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1404.0,
+      "y_px": 1048.0
+    },
+    {
+      "id": 796,
+      "label": "Cursed_Cavern_C796",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1195.0,
+      "y_px": 1172.0
+    },
+    {
+      "id": 797,
+      "label": "Wild_C797",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1065.0,
+      "y_px": 1421.0
+    },
+    {
+      "id": 798,
+      "label": "Wild_C798",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1120.0,
+      "y_px": 1451.0
+    },
+    {
+      "id": 799,
+      "label": "Wild_C799",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1118.0,
+      "y_px": 1436.0
+    },
+    {
+      "id": 800,
+      "label": "Wild_C800",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1122.0,
+      "y_px": 1442.0
+    },
+    {
+      "id": 801,
+      "label": "Wild_C801",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 876.0,
+      "y_px": 1572.0
+    },
+    {
+      "id": 802,
+      "label": "Wild_C802",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 876.0,
+      "y_px": 1595.0
+    },
+    {
+      "id": 803,
+      "label": "Wild_C803",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 863.0,
+      "y_px": 1589.0
+    },
+    {
+      "id": 804,
+      "label": "Wild_C804",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 853.0,
+      "y_px": 1603.0
+    },
+    {
+      "id": 805,
+      "label": "The__Rocky_C805",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1481.0,
+      "y_px": 1233.0
+    },
+    {
+      "id": 806,
+      "label": "The__Rocky_C806",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1406.0,
+      "y_px": 1222.0
+    },
+    {
+      "id": 807,
+      "label": "The__Rocky_R807",
+      "poi": "The $.$. Rocky",
+      "type": "rare_chest",
+      "x_px": 1407.0,
+      "y_px": 1245.0
+    },
+    {
+      "id": 808,
+      "label": "The__Rocky_R808",
+      "poi": "The $.$. Rocky",
+      "type": "rare_chest",
+      "x_px": 1405.0,
+      "y_px": 1242.0
+    },
+    {
+      "id": 809,
+      "label": "The__Rocky_R809",
+      "poi": "The $.$. Rocky",
+      "type": "rare_chest",
+      "x_px": 1405.0,
+      "y_px": 1246.0
+    },
+    {
+      "id": 810,
+      "label": "The__Rocky_R810",
+      "poi": "The $.$. Rocky",
+      "type": "rare_chest",
+      "x_px": 1407.0,
+      "y_px": 1242.0
+    },
+    {
+      "id": 811,
+      "label": "Wild_C811",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1095.0,
+      "y_px": 1041.0
+    },
+    {
+      "id": 812,
+      "label": "Wild_C812",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1112.0,
+      "y_px": 1060.0
+    },
+    {
+      "id": 813,
+      "label": "Wild_C813",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1099.0,
+      "y_px": 1054.0
+    },
+    {
+      "id": 814,
+      "label": "Wild_C814",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1102.0,
+      "y_px": 1032.0
+    },
+    {
+      "id": 815,
+      "label": "Wild_C815",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1105.0,
+      "y_px": 1044.0
+    },
+    {
+      "id": 816,
+      "label": "Wild_C816",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1066.0,
+      "y_px": 1104.0
+    },
+    {
+      "id": 817,
+      "label": "Wild_C817",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 773.0,
+      "y_px": 1129.0
+    },
+    {
+      "id": 818,
+      "label": "Wild_C818",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 773.0,
+      "y_px": 1116.0
+    },
+    {
+      "id": 819,
+      "label": "Wild_C819",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 775.0,
+      "y_px": 1122.0
+    },
+    {
+      "id": 820,
+      "label": "Windmill_Village_C820",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 716.0,
+      "y_px": 1436.0
+    },
+    {
+      "id": 821,
+      "label": "Wild_C821",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 736.0,
+      "y_px": 1380.0
+    },
+    {
+      "id": 822,
+      "label": "Wild_C822",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 720.0,
+      "y_px": 1375.0
+    },
+    {
+      "id": 823,
+      "label": "Windmill_Village_C823",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 779.0,
+      "y_px": 1459.0
+    },
+    {
+      "id": 824,
+      "label": "Windmill_Village_C824",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 754.0,
+      "y_px": 1490.0
+    },
+    {
+      "id": 825,
+      "label": "Windmill_Village_C825",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 754.0,
+      "y_px": 1471.0
+    },
+    {
+      "id": 826,
+      "label": "Windmill_Village_C826",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 742.0,
+      "y_px": 1470.0
+    },
+    {
+      "id": 827,
+      "label": "Windmill_Village_C827",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 772.0,
+      "y_px": 1475.0
+    },
+    {
+      "id": 828,
+      "label": "Windmill_Village_C828",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 758.0,
+      "y_px": 1501.0
+    },
+    {
+      "id": 829,
+      "label": "Windmill_Village_C829",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 781.0,
+      "y_px": 1462.0
+    },
+    {
+      "id": 830,
+      "label": "Windmill_Village_C830",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 748.0,
+      "y_px": 1480.0
+    },
+    {
+      "id": 831,
+      "label": "Windmill_Village_C831",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 718.0,
+      "y_px": 1488.0
+    },
+    {
+      "id": 832,
+      "label": "Windmill_Village_C832",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 717.0,
+      "y_px": 1492.0
+    },
+    {
+      "id": 833,
+      "label": "Windmill_Village_C833",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 756.0,
+      "y_px": 1460.0
+    },
+    {
+      "id": 834,
+      "label": "Windmill_Village_C834",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 768.0,
+      "y_px": 1473.0
+    },
+    {
+      "id": 835,
+      "label": "Wild_C835",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 690.0,
+      "y_px": 1634.0
+    },
+    {
+      "id": 836,
+      "label": "Loguetown_C836",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 995.0,
+      "y_px": 1394.0
+    },
+    {
+      "id": 837,
+      "label": "Loguetown_R837",
+      "poi": "Loguetown",
+      "type": "rare_chest",
+      "x_px": 1005.0,
+      "y_px": 1432.0
+    },
+    {
+      "id": 838,
+      "label": "Loguetown_R838",
+      "poi": "Loguetown",
+      "type": "rare_chest",
+      "x_px": 1002.0,
+      "y_px": 1434.0
+    },
+    {
+      "id": 839,
+      "label": "Loguetown_R839",
+      "poi": "Loguetown",
+      "type": "rare_chest",
+      "x_px": 1005.0,
+      "y_px": 1434.0
+    },
+    {
+      "id": 840,
+      "label": "Loguetown_R840",
+      "poi": "Loguetown",
+      "type": "rare_chest",
+      "x_px": 1001.0,
+      "y_px": 1432.0
+    },
+    {
+      "id": 841,
+      "label": "Rubber_Resort_C841",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 863.0,
+      "y_px": 719.0
+    },
+    {
+      "id": 842,
+      "label": "Cursed_Cavern_C842",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1177.0,
+      "y_px": 1156.0
+    },
+    {
+      "id": 843,
+      "label": "Cursed_Cavern_C843",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1156.0,
+      "y_px": 1182.0
+    },
+    {
+      "id": 844,
+      "label": "Cursed_Cavern_C844",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1205.0,
+      "y_px": 1190.0
+    },
+    {
+      "id": 845,
+      "label": "Cursed_Cavern_C845",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1225.0,
+      "y_px": 1165.0
+    },
+    {
+      "id": 846,
+      "label": "Cursed_Cavern_C846",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1214.0,
+      "y_px": 1178.0
+    },
+    {
+      "id": 847,
+      "label": "Cursed_Cavern_C847",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1177.0,
+      "y_px": 1164.0
+    },
+    {
+      "id": 848,
+      "label": "Cursed_Cavern_C848",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1174.0,
+      "y_px": 1166.0
+    },
+    {
+      "id": 849,
+      "label": "Cursed_Cavern_C849",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1177.0,
+      "y_px": 1169.0
+    },
+    {
+      "id": 850,
+      "label": "Cursed_Cavern_C850",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1192.0,
+      "y_px": 1144.0
+    },
+    {
+      "id": 851,
+      "label": "Cursed_Cavern_C851",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1202.0,
+      "y_px": 1155.0
+    },
+    {
+      "id": 852,
+      "label": "Cursed_Cavern_C852",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1208.0,
+      "y_px": 1157.0
+    },
+    {
+      "id": 853,
+      "label": "Cursed_Cavern_C853",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1203.0,
+      "y_px": 1168.0
+    },
+    {
+      "id": 854,
+      "label": "Cursed_Cavern_C854",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1188.0,
+      "y_px": 1191.0
+    },
+    {
+      "id": 855,
+      "label": "Cursed_Cavern_C855",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1198.0,
+      "y_px": 1187.0
+    },
+    {
+      "id": 856,
+      "label": "Cursed_Cavern_C856",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1143.0,
+      "y_px": 1181.0
+    },
+    {
+      "id": 857,
+      "label": "Cursed_Cavern_C857",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1190.0,
+      "y_px": 1118.0
+    },
+    {
+      "id": 858,
+      "label": "Cursed_Cavern_C858",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1220.0,
+      "y_px": 1172.0
+    },
+    {
+      "id": 859,
+      "label": "Cursed_Cavern_C859",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1203.0,
+      "y_px": 1178.0
+    },
+    {
+      "id": 860,
+      "label": "Cursed_Cavern_C860",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1209.0,
+      "y_px": 1152.0
+    },
+    {
+      "id": 861,
+      "label": "Cursed_Cavern_C861",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1184.0,
+      "y_px": 1132.0
+    },
+    {
+      "id": 862,
+      "label": "Cursed_Cavern_C862",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1175.0,
+      "y_px": 1193.0
+    },
+    {
+      "id": 863,
+      "label": "Cursed_Cavern_C863",
+      "poi": "Cursed Cavern",
+      "type": "chest",
+      "x_px": 1164.0,
+      "y_px": 1171.0
+    },
+    {
+      "id": 864,
+      "label": "Wild_C864",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1427.0,
+      "y_px": 1690.0
+    },
+    {
+      "id": 865,
+      "label": "Wild_C865",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1413.0,
+      "y_px": 1664.0
+    },
+    {
+      "id": 866,
+      "label": "Wild_C866",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1489.0,
+      "y_px": 1656.0
+    },
+    {
+      "id": 867,
+      "label": "Wild_C867",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1114.0,
+      "y_px": 782.0
+    },
+    {
+      "id": 868,
+      "label": "Wild_C868",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1114.0,
+      "y_px": 788.0
+    },
+    {
+      "id": 869,
+      "label": "Wild_C869",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 974.0,
+      "y_px": 1320.0
+    },
+    {
+      "id": 870,
+      "label": "Buggys_Beachhead_C870",
+      "poi": "Buggy's Beachhead",
+      "type": "chest",
+      "x_px": 1054.0,
+      "y_px": 842.0
+    },
+    {
+      "id": 871,
+      "label": "The_Chest_C871",
+      "poi": "The Chest",
+      "type": "chest",
+      "x_px": 795.0,
+      "y_px": 897.0
+    },
+    {
+      "id": 872,
+      "label": "The_Chest_C872",
+      "poi": "The Chest",
+      "type": "chest",
+      "x_px": 815.0,
+      "y_px": 870.0
+    },
+    {
+      "id": 873,
+      "label": "Wild_C873",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 852.0,
+      "y_px": 865.0
+    },
+    {
+      "id": 874,
+      "label": "Wild_C874",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 852.0,
+      "y_px": 859.0
+    },
+    {
+      "id": 875,
+      "label": "Windmill_Village_C875",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 783.0,
+      "y_px": 1436.0
+    },
+    {
+      "id": 876,
+      "label": "Windmill_Village_C876",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 769.0,
+      "y_px": 1441.0
+    },
+    {
+      "id": 877,
+      "label": "Windmill_Village_C877",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 748.0,
+      "y_px": 1411.0
+    },
+    {
+      "id": 878,
+      "label": "Windmill_Village_C878",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 752.0,
+      "y_px": 1437.0
+    },
+    {
+      "id": 879,
+      "label": "Windmill_Village_C879",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 713.0,
+      "y_px": 1436.0
+    },
+    {
+      "id": 880,
+      "label": "Windmill_Village_C880",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 714.0,
+      "y_px": 1436.0
+    },
+    {
+      "id": 881,
+      "label": "Windmill_Village_C881",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 788.0,
+      "y_px": 1437.0
+    },
+    {
+      "id": 882,
+      "label": "Windmill_Village_C882",
+      "poi": "Windmill Village",
+      "type": "chest",
+      "x_px": 778.0,
+      "y_px": 1428.0
+    },
+    {
+      "id": 883,
+      "label": "Plunder_Port_C883",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1194.0,
+      "y_px": 1627.0
+    },
+    {
+      "id": 884,
+      "label": "Plunder_Port_C884",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1149.0,
+      "y_px": 1624.0
+    },
+    {
+      "id": 885,
+      "label": "Plunder_Port_C885",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1154.0,
+      "y_px": 1626.0
+    },
+    {
+      "id": 886,
+      "label": "Plunder_Port_C886",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1179.0,
+      "y_px": 1625.0
+    },
+    {
+      "id": 887,
+      "label": "Plunder_Port_C887",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1195.0,
+      "y_px": 1628.0
+    },
+    {
+      "id": 888,
+      "label": "Plunder_Port_C888",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1146.0,
+      "y_px": 1618.0
+    },
+    {
+      "id": 889,
+      "label": "Plunder_Port_C889",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1171.0,
+      "y_px": 1599.0
+    },
+    {
+      "id": 890,
+      "label": "Plunder_Port_C890",
+      "poi": "Plunder Port",
+      "type": "chest",
+      "x_px": 1165.0,
+      "y_px": 1601.0
+    },
+    {
+      "id": 891,
+      "label": "Rubber_Resort_C891",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 860.0,
+      "y_px": 722.0
+    },
+    {
+      "id": 892,
+      "label": "Rubber_Resort_C892",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 859.0,
+      "y_px": 718.0
+    },
+    {
+      "id": 893,
+      "label": "Rubber_Resort_C893",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 865.0,
+      "y_px": 713.0
+    },
+    {
+      "id": 894,
+      "label": "Rubber_Resort_C894",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 866.0,
+      "y_px": 717.0
+    },
+    {
+      "id": 895,
+      "label": "Rubber_Resort_C895",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 858.0,
+      "y_px": 712.0
+    },
+    {
+      "id": 896,
+      "label": "Rubber_Resort_C896",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 855.0,
+      "y_px": 714.0
+    },
+    {
+      "id": 897,
+      "label": "Rubber_Resort_C897",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 864.0,
+      "y_px": 721.0
+    },
+    {
+      "id": 898,
+      "label": "Rubber_Resort_C898",
+      "poi": "Rubber Resort",
+      "type": "chest",
+      "x_px": 854.0,
+      "y_px": 751.0
+    },
+    {
+      "id": 899,
+      "label": "The__Rocky_C899",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1436.0,
+      "y_px": 1219.0
+    },
+    {
+      "id": 900,
+      "label": "The__Rocky_C900",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1482.0,
+      "y_px": 1267.0
+    },
+    {
+      "id": 901,
+      "label": "The__Rocky_C901",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1439.0,
+      "y_px": 1229.0
+    },
+    {
+      "id": 902,
+      "label": "The__Rocky_C902",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1433.0,
+      "y_px": 1216.0
+    },
+    {
+      "id": 903,
+      "label": "The__Rocky_C903",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1406.0,
+      "y_px": 1247.0
+    },
+    {
+      "id": 904,
+      "label": "The__Rocky_C904",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1406.0,
+      "y_px": 1226.0
+    },
+    {
+      "id": 905,
+      "label": "The__Rocky_C905",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1402.0,
+      "y_px": 1240.0
+    },
+    {
+      "id": 906,
+      "label": "The__Rocky_C906",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1406.0,
+      "y_px": 1221.0
+    },
+    {
+      "id": 907,
+      "label": "The__Rocky_C907",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1410.0,
+      "y_px": 1208.0
+    },
+    {
+      "id": 908,
+      "label": "The__Rocky_C908",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1407.0,
+      "y_px": 1217.0
+    },
+    {
+      "id": 909,
+      "label": "The__Rocky_C909",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1404.0,
+      "y_px": 1216.0
+    },
+    {
+      "id": 910,
+      "label": "The__Rocky_C910",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1409.0,
+      "y_px": 1218.0
+    },
+    {
+      "id": 911,
+      "label": "The__Rocky_C911",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1401.0,
+      "y_px": 1235.0
+    },
+    {
+      "id": 912,
+      "label": "The__Rocky_C912",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1410.0,
+      "y_px": 1237.0
+    },
+    {
+      "id": 913,
+      "label": "The__Rocky_C913",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1402.0,
+      "y_px": 1211.0
+    },
+    {
+      "id": 914,
+      "label": "The__Rocky_C914",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1412.0,
+      "y_px": 1202.0
+    },
+    {
+      "id": 915,
+      "label": "The__Rocky_C915",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1412.0,
+      "y_px": 1216.0
+    },
+    {
+      "id": 916,
+      "label": "The__Rocky_C916",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1410.0,
+      "y_px": 1252.0
+    },
+    {
+      "id": 917,
+      "label": "The__Rocky_C917",
+      "poi": "The $.$. Rocky",
+      "type": "chest",
+      "x_px": 1404.0,
+      "y_px": 1245.0
+    },
+    {
+      "id": 918,
+      "label": "Wild_C918",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 748.0,
+      "y_px": 621.0
+    },
+    {
+      "id": 919,
+      "label": "Wild_B919",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1595.0,
+      "y_px": 602.0
+    },
+    {
+      "id": 920,
+      "label": "Wild_B920",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1603.0,
+      "y_px": 637.0
+    },
+    {
+      "id": 921,
+      "label": "Wild_B921",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1594.0,
+      "y_px": 654.0
+    },
+    {
+      "id": 922,
+      "label": "Wild_B922",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1604.0,
+      "y_px": 610.0
+    },
+    {
+      "id": 923,
+      "label": "Wild_B923",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1582.0,
+      "y_px": 599.0
+    },
+    {
+      "id": 924,
+      "label": "Wild_B924",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1580.0,
+      "y_px": 650.0
+    },
+    {
+      "id": 925,
+      "label": "Wild_B925",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1606.0,
+      "y_px": 624.0
+    },
+    {
+      "id": 926,
+      "label": "Wild_B926",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1590.0,
+      "y_px": 601.0
+    },
+    {
+      "id": 927,
+      "label": "Wild_B927",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1602.0,
+      "y_px": 625.0
+    },
+    {
+      "id": 928,
+      "label": "Wild_B928",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1600.0,
+      "y_px": 642.0
+    },
+    {
+      "id": 929,
+      "label": "Wild_C929",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1199.0,
+      "y_px": 894.0
+    },
+    {
+      "id": 930,
+      "label": "Wild_C930",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1218.0,
+      "y_px": 898.0
+    },
+    {
+      "id": 931,
+      "label": "Wild_C931",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1127.0,
+      "y_px": 1239.0
+    },
+    {
+      "id": 932,
+      "label": "Wild_C932",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1094.0,
+      "y_px": 1209.0
+    },
+    {
+      "id": 933,
+      "label": "Wild_C933",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1204.0,
+      "y_px": 897.0
+    },
+    {
+      "id": 934,
+      "label": "Namis_Tangerine_Grove_C934",
+      "poi": "Nami's Tangerine Grove",
+      "type": "chest",
+      "x_px": 684.0,
+      "y_px": 1602.0
+    },
+    {
+      "id": 935,
+      "label": "Namis_Tangerine_Grove_C935",
+      "poi": "Nami's Tangerine Grove",
+      "type": "chest",
+      "x_px": 683.0,
+      "y_px": 1588.0
+    },
+    {
+      "id": 936,
+      "label": "Wild_C936",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1387.0,
+      "y_px": 800.0
+    },
+    {
+      "id": 937,
+      "label": "Wild_C937",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1378.0,
+      "y_px": 800.0
+    },
+    {
+      "id": 938,
+      "label": "Wild_C938",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1366.0,
+      "y_px": 813.0
+    },
+    {
+      "id": 939,
+      "label": "Wild_C939",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1377.0,
+      "y_px": 795.0
+    },
+    {
+      "id": 940,
+      "label": "Wild_R940",
+      "poi": "Wild",
+      "type": "rare_chest",
+      "x_px": 1379.0,
+      "y_px": 800.0
+    },
+    {
+      "id": 941,
+      "label": "Wild_C941",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1337.0,
+      "y_px": 846.0
+    },
+    {
+      "id": 942,
+      "label": "Wild_C942",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1338.0,
+      "y_px": 862.0
+    },
+    {
+      "id": 943,
+      "label": "Wild_C943",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1328.0,
+      "y_px": 848.0
+    },
+    {
+      "id": 944,
+      "label": "Wild_C944",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1336.0,
+      "y_px": 853.0
+    },
+    {
+      "id": 945,
+      "label": "Wild_C945",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1528.0,
+      "y_px": 1251.0
+    },
+    {
+      "id": 946,
+      "label": "Wild_C946",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1525.0,
+      "y_px": 1232.0
+    },
+    {
+      "id": 947,
+      "label": "Wild_C947",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1498.0,
+      "y_px": 1250.0
+    },
+    {
+      "id": 948,
+      "label": "Wild_C948",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1491.0,
+      "y_px": 1267.0
+    },
+    {
+      "id": 949,
+      "label": "Wild_C949",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1497.0,
+      "y_px": 1248.0
+    },
+    {
+      "id": 950,
+      "label": "Wild_C950",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1280.0,
+      "y_px": 848.0
+    },
+    {
+      "id": 951,
+      "label": "Wild_C951",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1273.0,
+      "y_px": 848.0
+    },
+    {
+      "id": 952,
+      "label": "Wild_C952",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1313.0,
+      "y_px": 848.0
+    },
+    {
+      "id": 953,
+      "label": "Loguetown_C953",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 1027.0,
+      "y_px": 1427.0
+    },
+    {
+      "id": 954,
+      "label": "Loguetown_C954",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 1044.0,
+      "y_px": 1407.0
+    },
+    {
+      "id": 955,
+      "label": "Loguetown_C955",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 1021.0,
+      "y_px": 1377.0
+    },
+    {
+      "id": 956,
+      "label": "Loguetown_C956",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 1022.0,
+      "y_px": 1406.0
+    },
+    {
+      "id": 957,
+      "label": "Loguetown_C957",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 1023.0,
+      "y_px": 1399.0
+    },
+    {
+      "id": 958,
+      "label": "Loguetown_C958",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 1025.0,
+      "y_px": 1376.0
+    },
+    {
+      "id": 959,
+      "label": "Loguetown_C959",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 1025.0,
+      "y_px": 1379.0
+    },
+    {
+      "id": 960,
+      "label": "Loguetown_C960",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 1013.0,
+      "y_px": 1422.0
+    },
+    {
+      "id": 961,
+      "label": "Loguetown_C961",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 1007.0,
+      "y_px": 1423.0
+    },
+    {
+      "id": 962,
+      "label": "Loguetown_C962",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 1010.0,
+      "y_px": 1431.0
+    },
+    {
+      "id": 963,
+      "label": "Loguetown_C963",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 975.0,
+      "y_px": 1432.0
+    },
+    {
+      "id": 964,
+      "label": "Loguetown_C964",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 983.0,
+      "y_px": 1426.0
+    },
+    {
+      "id": 965,
+      "label": "Loguetown_C965",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 986.0,
+      "y_px": 1426.0
+    },
+    {
+      "id": 966,
+      "label": "Loguetown_C966",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 969.0,
+      "y_px": 1447.0
+    },
+    {
+      "id": 967,
+      "label": "Loguetown_C967",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 973.0,
+      "y_px": 1379.0
+    },
+    {
+      "id": 968,
+      "label": "Loguetown_C968",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 1008.0,
+      "y_px": 1428.0
+    },
+    {
+      "id": 969,
+      "label": "Loguetown_C969",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 998.0,
+      "y_px": 1455.0
+    },
+    {
+      "id": 970,
+      "label": "Loguetown_C970",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 994.0,
+      "y_px": 1448.0
+    },
+    {
+      "id": 971,
+      "label": "Loguetown_C971",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 991.0,
+      "y_px": 1450.0
+    },
+    {
+      "id": 972,
+      "label": "Loguetown_C972",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 974.0,
+      "y_px": 1400.0
+    },
+    {
+      "id": 973,
+      "label": "Loguetown_C973",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 977.0,
+      "y_px": 1410.0
+    },
+    {
+      "id": 974,
+      "label": "Loguetown_C974",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 995.0,
+      "y_px": 1374.0
+    },
+    {
+      "id": 975,
+      "label": "Loguetown_C975",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 978.0,
+      "y_px": 1369.0
+    },
+    {
+      "id": 976,
+      "label": "Loguetown_C976",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 1012.0,
+      "y_px": 1379.0
+    },
+    {
+      "id": 977,
+      "label": "Loguetown_C977",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 988.0,
+      "y_px": 1374.0
+    },
+    {
+      "id": 978,
+      "label": "Loguetown_C978",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 992.0,
+      "y_px": 1380.0
+    },
+    {
+      "id": 979,
+      "label": "Loguetown_C979",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 1003.0,
+      "y_px": 1376.0
+    },
+    {
+      "id": 980,
+      "label": "Loguetown_C980",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 978.0,
+      "y_px": 1376.0
+    },
+    {
+      "id": 981,
+      "label": "Loguetown_C981",
+      "poi": "Loguetown",
+      "type": "chest",
+      "x_px": 975.0,
+      "y_px": 1431.0
+    },
+    {
+      "id": 982,
+      "label": "Wild_C982",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1479.0,
+      "y_px": 965.0
+    },
+    {
+      "id": 983,
+      "label": "Wild_C983",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1468.0,
+      "y_px": 938.0
+    },
+    {
+      "id": 984,
+      "label": "Wild_C984",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1414.0,
+      "y_px": 945.0
+    },
+    {
+      "id": 985,
+      "label": "Wild_C985",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1416.0,
+      "y_px": 948.0
+    },
+    {
+      "id": 986,
+      "label": "Wild_C986",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1417.0,
+      "y_px": 949.0
+    },
+    {
+      "id": 987,
+      "label": "Busy_Bay_C987",
+      "poi": "Busy Bay",
+      "type": "chest",
+      "x_px": 1456.0,
+      "y_px": 1487.0
+    },
+    {
+      "id": 988,
+      "label": "Baratie_C988",
+      "poi": "Baratie",
+      "type": "chest",
+      "x_px": 1440.0,
+      "y_px": 1509.0
+    },
+    {
+      "id": 989,
+      "label": "Busy_Bay_C989",
+      "poi": "Busy Bay",
+      "type": "chest",
+      "x_px": 1455.0,
+      "y_px": 1487.0
+    },
+    {
+      "id": 990,
+      "label": "Baratie_C990",
+      "poi": "Baratie",
+      "type": "chest",
+      "x_px": 1410.0,
+      "y_px": 1516.0
+    },
+    {
+      "id": 991,
+      "label": "Busy_Bay_C991",
+      "poi": "Busy Bay",
+      "type": "chest",
+      "x_px": 1456.0,
+      "y_px": 1487.0
+    },
+    {
+      "id": 992,
+      "label": "Baratie_C992",
+      "poi": "Baratie",
+      "type": "chest",
+      "x_px": 1435.0,
+      "y_px": 1466.0
+    },
+    {
+      "id": 993,
+      "label": "Baratie_C993",
+      "poi": "Baratie",
+      "type": "chest",
+      "x_px": 1424.0,
+      "y_px": 1466.0
+    },
+    {
+      "id": 994,
+      "label": "Baratie_C994",
+      "poi": "Baratie",
+      "type": "chest",
+      "x_px": 1411.0,
+      "y_px": 1488.0
+    },
+    {
+      "id": 995,
+      "label": "Baratie_C995",
+      "poi": "Baratie",
+      "type": "chest",
+      "x_px": 1411.0,
+      "y_px": 1500.0
+    },
+    {
+      "id": 996,
+      "label": "Baratie_C996",
+      "poi": "Baratie",
+      "type": "chest",
+      "x_px": 1431.0,
+      "y_px": 1496.0
+    },
+    {
+      "id": 997,
+      "label": "Baratie_C997",
+      "poi": "Baratie",
+      "type": "chest",
+      "x_px": 1409.0,
+      "y_px": 1490.0
+    },
+    {
+      "id": 998,
+      "label": "Baratie_C998",
+      "poi": "Baratie",
+      "type": "chest",
+      "x_px": 1423.0,
+      "y_px": 1496.0
+    },
+    {
+      "id": 999,
+      "label": "Baratie_C999",
+      "poi": "Baratie",
+      "type": "chest",
+      "x_px": 1404.0,
+      "y_px": 1459.0
+    },
+    {
+      "id": 1000,
+      "label": "Baratie_C1000",
+      "poi": "Baratie",
+      "type": "chest",
+      "x_px": 1422.0,
+      "y_px": 1464.0
+    },
+    {
+      "id": 1001,
+      "label": "Baratie_C1001",
+      "poi": "Baratie",
+      "type": "chest",
+      "x_px": 1422.0,
+      "y_px": 1516.0
+    },
+    {
+      "id": 1002,
+      "label": "Baratie_C1002",
+      "poi": "Baratie",
+      "type": "chest",
+      "x_px": 1406.0,
+      "y_px": 1503.0
+    },
+    {
+      "id": 1003,
+      "label": "Baratie_C1003",
+      "poi": "Baratie",
+      "type": "chest",
+      "x_px": 1408.0,
+      "y_px": 1495.0
+    },
+    {
+      "id": 1004,
+      "label": "Busy_Bay_C1004",
+      "poi": "Busy Bay",
+      "type": "chest",
+      "x_px": 1406.0,
+      "y_px": 1525.0
+    },
+    {
+      "id": 1005,
+      "label": "Wild_B1005",
+      "poi": "Wild",
+      "type": "buried_chest",
+      "x_px": 1598.0,
+      "y_px": 1591.0
+    },
+    {
+      "id": 1006,
+      "label": "Wild_C1006",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1578.0,
+      "y_px": 1581.0
+    },
+    {
+      "id": 1007,
+      "label": "Wild_C1007",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1601.0,
+      "y_px": 1592.0
+    },
+    {
+      "id": 1008,
+      "label": "Arlong_Park_B1008",
+      "poi": "Arlong Park",
+      "type": "buried_chest",
+      "x_px": 577.0,
+      "y_px": 1169.0
+    },
+    {
+      "id": 1009,
+      "label": "Arlong_Park_B1009",
+      "poi": "Arlong Park",
+      "type": "buried_chest",
+      "x_px": 578.0,
+      "y_px": 1168.0
+    },
+    {
+      "id": 1010,
+      "label": "Arlong_Park_C1010",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 599.0,
+      "y_px": 1147.0
+    },
+    {
+      "id": 1011,
+      "label": "Arlong_Park_C1011",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 613.0,
+      "y_px": 1129.0
+    },
+    {
+      "id": 1012,
+      "label": "Arlong_Park_C1012",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 611.0,
+      "y_px": 1124.0
+    },
+    {
+      "id": 1013,
+      "label": "Arlong_Park_C1013",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 587.0,
+      "y_px": 1140.0
+    },
+    {
+      "id": 1014,
+      "label": "Arlong_Park_C1014",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 604.0,
+      "y_px": 1125.0
+    },
+    {
+      "id": 1015,
+      "label": "Arlong_Park_C1015",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 608.0,
+      "y_px": 1121.0
+    },
+    {
+      "id": 1016,
+      "label": "Arlong_Park_C1016",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 608.0,
+      "y_px": 1132.0
+    },
+    {
+      "id": 1017,
+      "label": "Arlong_Park_C1017",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 614.0,
+      "y_px": 1113.0
+    },
+    {
+      "id": 1018,
+      "label": "Arlong_Park_C1018",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 593.0,
+      "y_px": 1162.0
+    },
+    {
+      "id": 1019,
+      "label": "Arlong_Park_C1019",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 598.0,
+      "y_px": 1109.0
+    },
+    {
+      "id": 1020,
+      "label": "Arlong_Park_C1020",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 605.0,
+      "y_px": 1137.0
+    },
+    {
+      "id": 1021,
+      "label": "Arlong_Park_C1021",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 615.0,
+      "y_px": 1137.0
+    },
+    {
+      "id": 1022,
+      "label": "Arlong_Park_C1022",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 588.0,
+      "y_px": 1161.0
+    },
+    {
+      "id": 1023,
+      "label": "Arlong_Park_C1023",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 611.0,
+      "y_px": 1142.0
+    },
+    {
+      "id": 1024,
+      "label": "Arlong_Park_C1024",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 604.0,
+      "y_px": 1125.0
+    },
+    {
+      "id": 1025,
+      "label": "Arlong_Park_C1025",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 614.0,
+      "y_px": 1115.0
+    },
+    {
+      "id": 1026,
+      "label": "Arlong_Park_C1026",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 614.0,
+      "y_px": 1121.0
+    },
+    {
+      "id": 1027,
+      "label": "Arlong_Park_C1027",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 608.0,
+      "y_px": 1137.0
+    },
+    {
+      "id": 1028,
+      "label": "Arlong_Park_C1028",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 611.0,
+      "y_px": 1145.0
+    },
+    {
+      "id": 1029,
+      "label": "Arlong_Park_C1029",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 610.0,
+      "y_px": 1120.0
+    },
+    {
+      "id": 1030,
+      "label": "Arlong_Park_C1030",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 616.0,
+      "y_px": 1138.0
+    },
+    {
+      "id": 1031,
+      "label": "Arlong_Park_C1031",
+      "poi": "Arlong Park",
+      "type": "chest",
+      "x_px": 592.0,
+      "y_px": 1158.0
+    },
+    {
+      "id": 1032,
+      "label": "Wild_C1032",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1239.0,
+      "y_px": 1004.0
+    },
+    {
+      "id": 1033,
+      "label": "Wild_C1033",
+      "poi": "Wild",
+      "type": "chest",
+      "x_px": 1299.0,
+      "y_px": 987.0
+    }
+  ]
+}

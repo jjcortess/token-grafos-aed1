@@ -1,0 +1,13 @@
+grafo,tipo,n,m,prim_ms,kruskal_ms,coste_prim_s,coste_kruskal_s,verificacion_ok
+macro_poi_sparse,escaso,16,29,0.0007,0.0004,687.5960,687.5960,1
+macro_poi_complete,completo,16,120,0.0007,0.0017,687.5960,687.5960,1
+micro_scale_n50_sparse,escaso,50,124,0.0075,0.0024,443.2620,443.2620,1
+micro_scale_n50_complete,completo,50,1225,0.0075,0.0686,419.3670,419.3670,1
+micro_scale_n100_sparse,escaso,100,251,0.0332,0.0073,903.5890,903.5890,1
+micro_scale_n100_complete,completo,100,4950,0.0358,0.3489,771.6370,771.6370,1
+micro_scale_n200_sparse,escaso,200,511,0.1301,0.0192,1520.5810,1520.5810,1
+micro_scale_n200_complete,completo,200,19900,0.1480,1.6511,1368.1770,1368.1770,1
+micro_scale_n400_sparse,escaso,400,1021,0.5569,0.0668,2298.8100,2298.8100,1
+micro_scale_n400_complete,completo,400,79800,0.5988,7.7456,2163.6820,2163.6820,1
+micro_island_sparse,escaso,1034,2648,3.9275,0.2513,4169.8800,4169.8800,1
+micro_island_complete,completo,1034,534061,4.2739,67.0154,4037.6090,4037.6090,1

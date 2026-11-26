@@ -1,0 +1,7 @@
+grafo,n,m,ingenuo_ms,lineal_ms,speedup,num_puntos_art,verificacion_ok
+macro_poi_sparse,16,29,0.0033,0.0003,11.9339,1,1
+micro_scale_n50_sparse,50,124,0.0400,0.0011,37.9142,3,1
+micro_scale_n100_sparse,100,251,0.1559,0.0020,76.7425,14,1
+micro_scale_n200_sparse,200,511,0.7027,0.0043,165.0390,32,1
+micro_scale_n400_sparse,400,1021,3.0975,0.0089,346.1256,55,1
+micro_island_sparse,1034,2648,28.5398,0.0509,560.1809,85,1
