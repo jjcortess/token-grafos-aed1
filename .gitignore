@@ -1,0 +1,38 @@
+# --- Binarios y objetos compilados de C++ ---
+*.o
+*.obj
+*.out
+*.exe
+*.d
+aed1_runner
+aed1_runner.exe
+
+# --- Python y entornos virtuales ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Auxiliares de LaTeX / Pandoc (por si compilas la memoria) ---
+*.aux
+*.log
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# --- Editores y Sistema Operativo ---
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Nota: data/raw/, data/processed/, results/csv/, results/figures/ y docs/
+# NO se ignoran intencionadamente para garantizar la reproducibilidad offline
+# y que las imágenes del README.md se muestren en GitHub.
