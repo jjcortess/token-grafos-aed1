@@ -183,6 +183,6 @@ Todas las verificaciones cruzadas automáticas entre algoritmos equivalentes (**
 <a name="autoria"></a>
 ## 7. Reparto de tareas y uso de IA
 
-* **[Nombre Alumno 1]:** Preprocesamiento Python (`01_fetch_snapshot.py`, `02_build_graphs.py`), módulo C++ Bloque A (`graph`, `traversals`, `mst`, `articulation`) y validación de datasets.
-* **[Nombre Alumno 2]:** Módulo C++ Bloque B (`shortest_paths`, `tsp`, `experiments`, `main`), visualización Python (`03_analyze_plots.py`) y análisis estadístico.
+* **Juanjo:** Preprocesamiento Python (`01_fetch_snapshot.py`, `02_build_graphs.py`), módulo C++ Bloque A (`graph`, `traversals`, `mst`, `articulation`) y validación de datasets.
+* **Raúl:** Módulo C++ Bloque B (`shortest_paths`, `tsp`, `experiments`, `main`), visualización Python (`03_analyze_plots.py`) y análisis estadístico.
 * **Uso de IA generativa:** Se utilizó Google Gemini como apoyo en la estructuración del proyecto, borradores de código C++/Python y formato de la memoria. La búsqueda y validación del dataset real v43.10 (`MapSpawns.json`), la ejecución local, la verificación cruzada (100 % PASS) y el análisis crítico de los resultados fueron realizados por los autores (ver Sección 7 de `docs/memoria_aed1_t4.pdf`).
